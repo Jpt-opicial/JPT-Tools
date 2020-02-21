@@ -1,0 +1,4805 @@
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ FrameworkConfig ] setAppPath appPath == /storage/emulated/0/MiVideoGlobal
+2019-11-07 08:37:05	DEBUG	ThemeUtils	[ createPackageContext ] isTheme= false   mThemeId= com.miui.video.theme.01
+2019-11-07 08:37:05	DEBUG	DataUtils	[ addUI ] ui= com.miui.video.global.app.LauncherActivity@8bab52c
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ openLink ] link=mv://Main?url=feed/op-home  scheme=mv  host=Main  path=  params=[url]   ref=com.miui.videoplayer
+2019-11-07 08:37:05	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_CLICK  obj= 	com.miui.video.common.entity.LinkEntity@92c30d7
+Uri=mv://Main?url=feed/op-home
+getScheme=mv
+getHost=Main
+getPath=
+getQuery=url=feed/op-home
+getQueryParameterNames=[url]
+ref=null
+
+2019-11-07 08:37:05	DEBUG	DataUtils	[ addUI ] ui= com.miui.video.global.app.home.HomeActivity@1b93e2
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ OVDatabase-Setting ] cacheToMemory
+2019-11-07 08:37:05	DEBUG	DBUtils	[ DBUtils ] getDatabaseName= online.db
+2019-11-07 08:37:05	DEBUG	OVDatabase	[ query ] getCount=20	com.miui.video.framework.db.TableEntity@484fdc7
+tableName=ov_setting_table
+
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ init ] ==========Device Info==========
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ androidSDK ] 27
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneBoard ] unknown
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneBrand ] xiaomi
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneCPU_ABT ] armeabi-v7a
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneDevice ] cactus
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneDisplay ] O11019
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneFingerprint ] xiaomi/cactus/cactus:8.1.0/O11019/V10.3.3.0.OCBMIXM:user/release-keys
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneHost ] mi-server
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneID ] O11019
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneManufacturer ] Xiaomi
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneModel ] Redmi 6A
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneVersion ] 8.1.0
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneProduct ] cactus
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneTags ] release-keys
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneTime ] Mon Jun 10 14:26:10 GMT+07:00 2019
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneType ] user
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ phoneUser ] builder
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ screenDensity ] 2.0
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ screenScaledDensity ] 2.0
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ screenWidthPixels ] 720
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ wcreenHeightPixels ] 1344
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ screenStatusBarHeight ] 50
+2019-11-07 08:37:05	DEBUG	DeviceUtils	[ init ] ===============================
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success channel = miui
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success platform = miui
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init end  ENABLE_LOG = trueIS_LOCAL_CONFIG = false ; Staging = false ;  is test = false
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ Plugin-PackageInstaller ] init
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ VideoJobScheduler ]  canceUpdateWork!
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ VideoJobScheduler ] periodic worker enqueue!
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.global.GlobalApplication@4ffe31d
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.global.GlobalApplication@4ffe31d
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.READ_PHONE_STATE; Context = com.miui.video.global.GlobalApplication@4ffe31d
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.READ_PHONE_STATE ret = true
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] lastTimeStamp = 1572267705878, ignoreSyncSettingTimes = 1
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.global.GlobalApplication@4ffe31d
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.global.GlobalApplication@4ffe31d
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.READ_PHONE_STATE; Context = com.miui.video.global.GlobalApplication@4ffe31d
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.READ_PHONE_STATE ret = true
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://id.video.intl.xiaomi.com/api/g1/ad_config?_sdevid=2b70c0cfd8f94394d443c5d67b0570ae4a7052c7e1539b0003c69c52baabc849&_miui=V10&_miuiver=V10.3.3.0.OCBMIXM&_andver=27&_model=Redmi%206A&_device=cactus&_locale=in_ID&_region=ID&_appver=2018103190&_ismiui=1&_anoyid=b7181238-5fa4-4cf2-ab3d-4f8e79c209bf&_res=hd720&_nonce=1295922170&_ts=1573090625&_ver=2018103190(MiVideo-GROM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=3818d5690e84222dc147b362c99d636d&_version=stable&_plyver=20180726&_nettype=0&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://id.video.intl.xiaomi.com/api/g1/meta/setting?_sdevid=2b70c0cfd8f94394d443c5d67b0570ae4a7052c7e1539b0003c69c52baabc849&_miui=V10&_miuiver=V10.3.3.0.OCBMIXM&_andver=27&_model=Redmi%206A&_device=cactus&_locale=in_ID&_region=ID&_appver=2018103190&_ismiui=1&_anoyid=b7181238-5fa4-4cf2-ab3d-4f8e79c209bf&_res=hd720&_nonce=1295922170&_ts=1573090625&_ver=2018103190(MiVideo-GROM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=3818d5690e84222dc147b362c99d636d&_version=stable&_plyver=20180726&_nettype=0&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackDev : map = {"ref":"com.miui.videoplayer","page_name":"HomeActivity","type":"page_view"}
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_miui":"V10","_ver":"2018103190(MiVideo-GROM)","_anoyid":"b7181238-5fa4-4cf2-ab3d-4f8e79c209bf","_region":"ID","type":"page_view","_res":"hd720","_device":"cactus","_miuiver":"V10.3.3.0.OCBMIXM","ref":"com.miui.videoplayer","_appver":"2018103190","page_name":"HomeActivity","_nettype":"0","_andver":"27","_model":"Redmi 6A","_plyver":"20180726","_ismiui":"1","_locale":"in_ID","_ts":"1573090625"}
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.global.app.home.HomeActivity@1b93e2
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.global.app.home.HomeActivity@1b93e2
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.READ_PHONE_STATE; Context = com.miui.video.global.app.home.HomeActivity@1b93e2
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.READ_PHONE_STATE ret = true
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.global.app.home.HomeActivity@1b93e2
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.global.app.home.HomeActivity@1b93e2
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.READ_PHONE_STATE; Context = com.miui.video.global.app.home.HomeActivity@1b93e2
+2019-11-07 08:37:05	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.READ_PHONE_STATE ret = true
+2019-11-07 08:37:05	DEBUG	HomeActivity	[ runFragment ] containerResId= 2131820758  fragment= HomeFragment{e508c5f}  type= FRAGMENT_SHOW  addToBackStack= false
+2019-11-07 08:37:05	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] onCommandResult register_success setIMEIAlias  mRegId ==  D+5WkYh6umod+0Y6HNW4DZfn7LzCMXQT1KEoCzSKxlghA7+Dgp7g+9TfvEyNKCvI
+
+2019-11-07 08:37:06	DEBUG	com.miui.videoplayer	[ UITracker ] page: mv://Main?url=feed/op-home
+2019-11-07 08:37:06	DEBUG	com.miui.videoplayer	[ UITracker ] PATH: [mv://Main?url=feed/op-home]
+2019-11-07 08:37:06	INFO	com.miui.videoplayer	[ Plugin-CPInfoConfig ] Starting load cp config data
+2019-11-07 08:37:06	DEBUG	com.miui.videoplayer	[ ThreadPoolManager ] initThreadPool index　0
+2019-11-07 08:37:06	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://id.video.intl.xiaomi.com/api/g1/meta/cp?_sdevid=2b70c0cfd8f94394d443c5d67b0570ae4a7052c7e1539b0003c69c52baabc849&_miui=V10&_miuiver=V10.3.3.0.OCBMIXM&_andver=27&_model=Redmi%206A&_device=cactus&_locale=in_ID&_region=ID&_appver=2018103190&_ismiui=1&_anoyid=b7181238-5fa4-4cf2-ab3d-4f8e79c209bf&_res=hd720&_nonce=970039851&_ts=1573090626&_ver=2018103190(MiVideo-GROM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=3818d5690e84222dc147b362c99d636d&_version=stable&_plyver=20180726&_nettype=0&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-11-07 08:37:06	INFO	com.miui.videoplayer	[ Plugin-PluginConfig ] Starting load cp config data
+2019-11-07 08:37:06	DEBUG	com.miui.videoplayer	[ AdConfigUtils ] getAdConfigFail
+2019-11-07 08:37:06	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://id.video.intl.xiaomi.com/api/g1/meta/plugin?_sdevid=2b70c0cfd8f94394d443c5d67b0570ae4a7052c7e1539b0003c69c52baabc849&_miui=V10&_miuiver=V10.3.3.0.OCBMIXM&_andver=27&_model=Redmi%206A&_device=cactus&_locale=in_ID&_region=ID&_appver=2018103190&_ismiui=1&_anoyid=b7181238-5fa4-4cf2-ab3d-4f8e79c209bf&_res=hd720&_nonce=968116107&_ts=1573090626&_ver=2018103190(MiVideo-GROM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=3818d5690e84222dc147b362c99d636d&_version=stable&_plyver=20180726&_nettype=0&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-11-07 08:37:06	DEBUG	DataUtils	[ addUI ] ui= HomeFragment{e508c5f #0 id=0x7f1100d6}
+2019-11-07 08:37:06	DEBUG	DataUtils	[ getData ] key= com.miui.video.KEY_INIT_VIDEOS  obj= null
+2019-11-07 08:37:06	DEBUG	DownloadTask	[ onPreExecute ] Thread= 0  Action= com.miui.video.KEY_INIT_VIDEOS  State= 2  Entity= com.miui.video.framework.task.TaskEntity@ff4c3cc
+2019-11-07 08:37:06	DEBUG	DownloadTask	[ doInBackground ] Thread= 25383  Action= com.miui.video.KEY_INIT_VIDEOS  State= 2  Entity= com.miui.video.framework.task.TaskEntity@ff4c3cc
+2019-11-07 08:37:06	DEBUG	DBUtils	[ DBUtils ] getDatabaseName= mivideo.db
+2019-11-07 08:37:06	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET https://id.video.intl.xiaomi.com/api/g1/meta/channel?ref=com.miui.videoplayer&_sdevid=2b70c0cfd8f94394d443c5d67b0570ae4a7052c7e1539b0003c69c52baabc849&_miui=V10&_miuiver=V10.3.3.0.OCBMIXM&_andver=27&_model=Redmi%206A&_device=cactus&_locale=in_ID&_region=ID&_appver=2018103190&_ismiui=1&_anoyid=b7181238-5fa4-4cf2-ab3d-4f8e79c209bf&_res=hd720&_nonce=1133942883&_ts=1573090626&_ver=2018103190(MiVideo-GROM)&_devtype=1&_cam=0f607264fc6318a92b9e13c65db7cd3c&_diordna=3818d5690e84222dc147b362c99d636d&_version=stable&_plyver=20180726&_nettype=0&_uspace=0&_eset=&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db http/1.1
+ Request Body is null
+
+2019-11-07 08:37:06	INFO	com.miui.videoplayer	[ Update Status:  ] 3
+2019-11-07 08:37:06	ERROR	com.miui.videoplayer	[ Plugin-CPInfoConfig ] syncServer() failed.
+
+2019-11-07 08:37:06	ERROR	com.miui.videoplayer	[ Plugin-PluginConfig ] syncServer() failed.
+
+2019-11-07 08:37:06	DEBUG	CLVDatabase	[ query ] getCount=203	com.miui.video.framework.db.TableEntity@a747124
+tableName=null
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=1	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1013
+mediaId=1013
+hideId=-1
+id=-1
+title=1564738871731.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564738871731.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564738871731.mp4
+size=4,42MB
+duration=07:00:30
+updateTime=1970年01月19日 09时38分58秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=2	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1014
+mediaId=1014
+hideId=-1
+id=-1
+title=1564740273575.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564740273575.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564740273575.mp4
+size=2,85MB
+duration=07:00:30
+updateTime=1970年01月19日 09时39分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=3	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1050
+mediaId=1050
+hideId=-1
+id=-1
+title=1564746602698.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564746602698.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564746602698.mp4
+size=687,12KB
+duration=07:00:29
+updateTime=1970年01月19日 09时39分06秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=4	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1069
+mediaId=1069
+hideId=-1
+id=-1
+title=1564758908134.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564758908134.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564758908134.mp4
+size=4,67MB
+duration=07:00:30
+updateTime=1970年01月19日 09时39分18秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=5	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1070
+mediaId=1070
+hideId=-1
+id=-1
+title=VID-20190803-WA0001.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190803-WA0001.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190803-WA0001.mp4
+size=1,29MB
+duration=07:00:30
+updateTime=1970年01月19日 09时40分04秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=6	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1151
+mediaId=1151
+hideId=-1
+id=-1
+title=1564961691356.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564961691356.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564961691356.mp4
+size=4,65MB
+duration=07:00:29
+updateTime=1970年01月19日 09时42分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=7	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1152
+mediaId=1152
+hideId=-1
+id=-1
+title=1564961704553.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564961704553.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564961704553.mp4
+size=1,72MB
+duration=07:00:30
+updateTime=1970年01月19日 09时42分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=8	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1188
+mediaId=1188
+hideId=-1
+id=-1
+title=VID-20190805-WA0070.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190805-WA0070.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190805-WA0070.mp4
+size=2,18MB
+duration=07:00:17
+updateTime=1970年01月19日 09时43分31秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=9	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1189
+mediaId=1189
+hideId=-1
+id=-1
+title=1565011779597.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565011779597.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565011779597.mp4
+size=548,83KB
+duration=07:00:17
+updateTime=1970年01月19日 09时43分31秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=10	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1192
+mediaId=1192
+hideId=-1
+id=-1
+title=1565012337553.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565012337553.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565012337553.mp4
+size=3,85MB
+duration=07:00:29
+updateTime=1970年01月19日 09时43分32秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=11	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1265
+mediaId=1265
+hideId=-1
+id=-1
+title=1565088592617.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565088592617.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565088592617.mp4
+size=3,35MB
+duration=07:00:29
+updateTime=1970年01月19日 09时44分48秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=12	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1306
+mediaId=1306
+hideId=-1
+id=-1
+title=1565172655080.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565172655080.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565172655080.mp4
+size=957,67KB
+duration=07:00:29
+updateTime=1970年01月19日 09时46分12秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=13	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1669
+mediaId=1669
+hideId=-1
+id=-1
+title=VID-20190811-WA0090.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190811-WA0090.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190811-WA0090.mp4
+size=10,92MB
+duration=07:00:29
+updateTime=1970年01月19日 09时51分55秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=14	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1670
+mediaId=1670
+hideId=-1
+id=-1
+title=VID-20190811-WA0099.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190811-WA0099.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190811-WA0099.mp4
+size=10,99MB
+duration=07:00:29
+updateTime=1970年01月19日 09时51分57秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=15	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1692
+mediaId=1692
+hideId=-1
+id=-1
+title=1565533672347.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565533672347.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565533672347.mp4
+size=4,47MB
+duration=07:00:29
+updateTime=1970年01月19日 09时52分13秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=16	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1693
+mediaId=1693
+hideId=-1
+id=-1
+title=1565569819301.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565569819301.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565569819301.mp4
+size=634,38KB
+duration=07:00:25
+updateTime=1970年01月19日 09时52分49秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=17	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1695
+mediaId=1695
+hideId=-1
+id=-1
+title=1565569830632.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565569830632.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565569830632.mp4
+size=885,15KB
+duration=07:00:27
+updateTime=1970年01月19日 09时52分49秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=18	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1698
+mediaId=1698
+hideId=-1
+id=-1
+title=1565574347810.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565574347810.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565574347810.mp4
+size=898,98KB
+duration=07:00:30
+updateTime=1970年01月19日 09时52分54秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=19	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1704
+mediaId=1704
+hideId=-1
+id=-1
+title=1565595083873.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565595083873.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565595083873.mp4
+size=950,71KB
+duration=07:00:29
+updateTime=1970年01月19日 09时53分15秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=20	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1706
+mediaId=1706
+hideId=-1
+id=-1
+title=1565595518627.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565595518627.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565595518627.mp4
+size=1,02MB
+duration=07:00:20
+updateTime=1970年01月19日 09时53分15秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=21	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1788
+mediaId=1788
+hideId=-1
+id=-1
+title=VID-20190813-WA0029.3gp
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190813-WA0029.3gp
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190813-WA0029.3gp
+size=8,57MB
+duration=07:00:30
+updateTime=1970年01月19日 09时54分57秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=22	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1816
+mediaId=1816
+hideId=-1
+id=-1
+title=VID-20190814-WA0013.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190814-WA0013.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190814-WA0013.mp4
+size=7,76MB
+duration=07:00:41
+updateTime=1970年01月19日 09时55分47秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=23	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1838
+mediaId=1838
+hideId=-1
+id=-1
+title=1565776157775.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565776157775.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565776157775.mp4
+size=529,45KB
+duration=07:00:30
+updateTime=1970年01月19日 09时56分16秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=24	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1840
+mediaId=1840
+hideId=-1
+id=-1
+title=1565780944854.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565780944854.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565780944854.mp4
+size=508,60KB
+duration=07:00:27
+updateTime=1970年01月19日 09时56分20秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=25	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1845
+mediaId=1845
+hideId=-1
+id=-1
+title=1565785272479.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565785272479.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565785272479.mp4
+size=524,63KB
+duration=07:00:29
+updateTime=1970年01月19日 09时56分25秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=26	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1854
+mediaId=1854
+hideId=-1
+id=-1
+title=VID-20190814-WA0115.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190814-WA0115.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190814-WA0115.mp4
+size=4,01MB
+duration=07:00:30
+updateTime=1970年01月19日 09时56分33秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=27	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1856
+mediaId=1856
+hideId=-1
+id=-1
+title=1565821739972.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821739972.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821739972.mp4
+size=921,40KB
+duration=07:00:28
+updateTime=1970年01月19日 09时57分01秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=28	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1857
+mediaId=1857
+hideId=-1
+id=-1
+title=1565821744612.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821744612.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821744612.mp4
+size=811,32KB
+duration=07:00:30
+updateTime=1970年01月19日 09时57分01秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=29	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1858
+mediaId=1858
+hideId=-1
+id=-1
+title=1565821749340.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821749340.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821749340.mp4
+size=1,14MB
+duration=07:00:29
+updateTime=1970年01月19日 09时57分01秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=30	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1859
+mediaId=1859
+hideId=-1
+id=-1
+title=1565821911336.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821911336.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821911336.mp4
+size=1,54MB
+duration=07:00:29
+updateTime=1970年01月19日 09时57分01秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=31	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9000
+mediaId=9000
+hideId=-1
+id=-1
+title=VID_149240316_015619_500.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_149240316_015619_500.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_149240316_015619_500.mp4
+size=8,69MB
+duration=07:00:19
+updateTime=1970年01月19日 09时57分39秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=32	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9205
+mediaId=9205
+hideId=-1
+id=-1
+title=VID-20190815-WA0092.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190815-WA0092.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190815-WA0092.mp4
+size=5,90MB
+duration=07:00:25
+updateTime=1970年01月19日 09时57分57秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=33	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9208
+mediaId=9208
+hideId=-1
+id=-1
+title=1565880009535.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565880009535.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565880009535.mp4
+size=425,28KB
+duration=07:00:29
+updateTime=1970年01月19日 09时58分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=34	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9209
+mediaId=9209
+hideId=-1
+id=-1
+title=VID-20190815-WA0109.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190815-WA0109.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190815-WA0109.mp4
+size=8,25MB
+duration=07:01:55
+updateTime=1970年01月19日 09时58分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=35	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9211
+mediaId=9211
+hideId=-1
+id=-1
+title=1565908111985.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565908111985.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565908111985.mp4
+size=4,44MB
+duration=07:00:30
+updateTime=1970年01月19日 09时58分28秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=36	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9242
+mediaId=9242
+hideId=-1
+id=-1
+title=1566000620576.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566000620576.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566000620576.mp4
+size=1,84MB
+duration=07:00:30
+updateTime=1970年01月19日 10时00分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=37	VideoEntity[baseId=0]
+uri=content://media/external/video/media/12116
+mediaId=12116
+hideId=-1
+id=-1
+title=VID-20190819-WA0054.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190819-WA0054.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190819-WA0054.mp4
+size=1,33MB
+duration=07:00:30
+updateTime=1970年01月19日 10时03分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=38	VideoEntity[baseId=0]
+uri=content://media/external/video/media/12117
+mediaId=12117
+hideId=-1
+id=-1
+title=1566221580228.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566221580228.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566221580228.mp4
+size=566,34KB
+duration=07:00:30
+updateTime=1970年01月19日 10时03分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=39	VideoEntity[baseId=0]
+uri=content://media/external/video/media/12144
+mediaId=12144
+hideId=-1
+id=-1
+title=VID-20190820-WA0018.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190820-WA0018.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190820-WA0018.mp4
+size=7,20MB
+duration=07:00:41
+updateTime=1970年01月19日 10时05分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=40	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13413
+mediaId=13413
+hideId=-1
+id=-1
+title=1566394382162.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566394382162.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566394382162.mp4
+size=908,84KB
+duration=07:00:30
+updateTime=1970年01月19日 10时06分34秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=41	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13414
+mediaId=13414
+hideId=-1
+id=-1
+title=1566394735816.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566394735816.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566394735816.mp4
+size=2,44MB
+duration=07:00:29
+updateTime=1970年01月19日 10时06分34秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=42	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13479
+mediaId=13479
+hideId=-1
+id=-1
+title=1566466081784.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466081784.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466081784.mp4
+size=531,75KB
+duration=07:00:26
+updateTime=1970年01月19日 10时07分46秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=43	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13481
+mediaId=13481
+hideId=-1
+id=-1
+title=1566466099488.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466099488.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466099488.mp4
+size=1,05MB
+duration=07:00:28
+updateTime=1970年01月19日 10时07分46秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=44	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13482
+mediaId=13482
+hideId=-1
+id=-1
+title=1566466112277.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466112277.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466112277.mp4
+size=1,10MB
+duration=07:00:29
+updateTime=1970年01月19日 10时07分46秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=45	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13534
+mediaId=13534
+hideId=-1
+id=-1
+title=1566572424336.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566572424336.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566572424336.mp4
+size=876,08KB
+duration=07:00:29
+updateTime=1970年01月19日 10时09分32秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=46	VideoEntity[baseId=0]
+uri=content://media/external/video/media/17018
+mediaId=17018
+hideId=-1
+id=-1
+title=1566832151630.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566832151630.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566832151630.mp4
+size=1,40MB
+duration=07:00:30
+updateTime=1970年01月19日 10时13分52秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=47	VideoEntity[baseId=0]
+uri=content://media/external/video/media/17019
+mediaId=17019
+hideId=-1
+id=-1
+title=1566833743714.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566833743714.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566833743714.mp4
+size=5,62MB
+duration=07:00:30
+updateTime=1970年01月19日 10时13分53秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=48	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18268
+mediaId=18268
+hideId=-1
+id=-1
+title=1566910403242.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566910403242.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566910403242.mp4
+size=556,36KB
+duration=07:00:29
+updateTime=1970年01月19日 10时15分10秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=49	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18283
+mediaId=18283
+hideId=-1
+id=-1
+title=VID-20190828-WA0001.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190828-WA0001.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190828-WA0001.mp4
+size=806,83KB
+duration=07:00:05
+updateTime=1970年01月19日 10时15分56秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=50	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18310
+mediaId=18310
+hideId=-1
+id=-1
+title=1566984280569.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566984280569.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566984280569.mp4
+size=4,92MB
+duration=07:00:27
+updateTime=1970年01月19日 10时16分24秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=51	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18375
+mediaId=18375
+hideId=-1
+id=-1
+title=1567031886336.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567031886336.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567031886336.mp4
+size=315,04KB
+duration=07:00:22
+updateTime=1970年01月19日 10时17分11秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=52	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18394
+mediaId=18394
+hideId=-1
+id=-1
+title=VID_20190829_135139_1.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190829_135139_1.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190829_135139_1.mp4
+size=54,03MB
+duration=07:00:26
+updateTime=1970年01月19日 10时17分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=53	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18397
+mediaId=18397
+hideId=-1
+id=-1
+title=1567071559591.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567071559591.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567071559591.mp4
+size=203,31KB
+duration=07:00:14
+updateTime=1970年01月19日 10时17分51秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=54	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18403
+mediaId=18403
+hideId=-1
+id=-1
+title=1567124140816.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567124140816.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567124140816.mp4
+size=2,63MB
+duration=07:00:14
+updateTime=1970年01月19日 10时18分44秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=55	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18404
+mediaId=18404
+hideId=-1
+id=-1
+title=1567124435451.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567124435451.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567124435451.mp4
+size=235,84KB
+duration=07:00:19
+updateTime=1970年01月19日 10时18分44秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=56	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18410
+mediaId=18410
+hideId=-1
+id=-1
+title=1567133163402.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567133163402.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567133163402.mp4
+size=667,67KB
+duration=07:00:26
+updateTime=1970年01月19日 10时18分53秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=57	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18419
+mediaId=18419
+hideId=-1
+id=-1
+title=1567141498181.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567141498181.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567141498181.mp4
+size=988,35KB
+duration=07:00:29
+updateTime=1970年01月19日 10时19分01秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=58	VideoEntity[baseId=0]
+uri=content://media/external/video/media/20470
+mediaId=20470
+hideId=-1
+id=-1
+title=VID-20190830-WA0092.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190830-WA0092.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190830-WA0092.mp4
+size=209,73KB
+duration=07:00:03
+updateTime=1970年01月19日 10时19分32秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=59	VideoEntity[baseId=0]
+uri=content://media/external/video/media/20571
+mediaId=20571
+hideId=-1
+id=-1
+title=VID-20190902-WA0015.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190902-WA0015.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190902-WA0015.mp4
+size=5,02MB
+duration=07:00:30
+updateTime=1970年01月19日 10时23分47秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=60	VideoEntity[baseId=0]
+uri=content://media/external/video/media/20586
+mediaId=20586
+hideId=-1
+id=-1
+title=1567495076268.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567495076268.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567495076268.mp4
+size=803,33KB
+duration=07:00:29
+updateTime=1970年01月19日 10时24分55秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=61	VideoEntity[baseId=0]
+uri=content://media/external/video/media/20592
+mediaId=20592
+hideId=-1
+id=-1
+title=1567500611599.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567500611599.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567500611599.mp4
+size=1,73MB
+duration=07:00:20
+updateTime=1970年01月19日 10时25分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=62	VideoEntity[baseId=0]
+uri=content://media/external/video/media/22578
+mediaId=22578
+hideId=-1
+id=-1
+title=VID_68560816_133129_646.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_68560816_133129_646.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_68560816_133129_646.mp4
+size=3,95MB
+duration=07:00:14
+updateTime=1970年01月19日 10时25分22秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=63	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23064
+mediaId=23064
+hideId=-1
+id=-1
+title=VID-20190904-WA0023.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190904-WA0023.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190904-WA0023.mp4
+size=790,48KB
+duration=07:00:03
+updateTime=1970年01月19日 10时26分25秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=64	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23068
+mediaId=23068
+hideId=-1
+id=-1
+title=VID-20190904-WA0028.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190904-WA0028.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190904-WA0028.mp4
+size=1,22MB
+duration=07:00:05
+updateTime=1970年01月19日 10时26分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=65	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23080
+mediaId=23080
+hideId=-1
+id=-1
+title=1567599959833.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567599959833.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567599959833.mp4
+size=555,48KB
+duration=07:00:29
+updateTime=1970年01月19日 10时26分39秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=66	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23081
+mediaId=23081
+hideId=-1
+id=-1
+title=1567600051285.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567600051285.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567600051285.mp4
+size=530,02KB
+duration=07:00:29
+updateTime=1970年01月19日 10时26分40秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=67	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23085
+mediaId=23085
+hideId=-1
+id=-1
+title=1567603094318.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567603094318.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567603094318.mp4
+size=1,34MB
+duration=07:00:22
+updateTime=1970年01月19日 10时26分43秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=68	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23086
+mediaId=23086
+hideId=-1
+id=-1
+title=1567603791441.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567603791441.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567603791441.mp4
+size=673,45KB
+duration=07:00:16
+updateTime=1970年01月19日 10时26分43秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=69	VideoEntity[baseId=0]
+uri=content://media/external/video/media/24337
+mediaId=24337
+hideId=-1
+id=-1
+title=1567769404926.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567769404926.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567769404926.mp4
+size=396,02KB
+duration=07:00:29
+updateTime=1970年01月19日 10时29分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=70	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25061
+mediaId=25061
+hideId=-1
+id=-1
+title=VID-20190907-WA0132.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190907-WA0132.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190907-WA0132.mp4
+size=4,28MB
+duration=07:00:28
+updateTime=1970年01月19日 10时31分09秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=71	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25078
+mediaId=25078
+hideId=-1
+id=-1
+title=VID-20190908-WA0029.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0029.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0029.mp4
+size=1,08MB
+duration=07:00:19
+updateTime=1970年01月19日 10时31分51秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=72	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25091
+mediaId=25091
+hideId=-1
+id=-1
+title=VID-20190908-WA0050.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0050.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0050.mp4
+size=3,97MB
+duration=07:00:52
+updateTime=1970年01月19日 10时32分22秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=73	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25102
+mediaId=25102
+hideId=-1
+id=-1
+title=1567947406279.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567947406279.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567947406279.mp4
+size=1,53MB
+duration=07:00:30
+updateTime=1970年01月19日 10时32分27秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=74	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25103
+mediaId=25103
+hideId=-1
+id=-1
+title=VID-20190908-WA0064.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0064.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0064.mp4
+size=1,36MB
+duration=07:00:29
+updateTime=1970年01月19日 10时32分28秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=75	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25125
+mediaId=25125
+hideId=-1
+id=-1
+title=1567996454138.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567996454138.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567996454138.mp4
+size=5,14MB
+duration=07:00:23
+updateTime=1970年01月19日 10时33分16秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=76	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25142
+mediaId=25142
+hideId=-1
+id=-1
+title=VID-20190909-WA0058.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190909-WA0058.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190909-WA0058.mp4
+size=6,61MB
+duration=07:00:12
+updateTime=1970年01月19日 10时33分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=77	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25155
+mediaId=25155
+hideId=-1
+id=-1
+title=VID-20190909-WA0068.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190909-WA0068.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190909-WA0068.mp4
+size=575,56KB
+duration=07:00:29
+updateTime=1970年01月19日 10时33分51秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=78	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25188
+mediaId=25188
+hideId=-1
+id=-1
+title=1568032979484.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568032979484.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568032979484.mp4
+size=560,87KB
+duration=07:00:30
+updateTime=1970年01月19日 10时33分52秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=79	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25208
+mediaId=25208
+hideId=-1
+id=-1
+title=1568079441898.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568079441898.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568079441898.mp4
+size=1,55MB
+duration=07:00:29
+updateTime=1970年01月19日 10时34分39秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=80	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27000
+mediaId=27000
+hideId=-1
+id=-1
+title=1568081082189.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081082189.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081082189.mp4
+size=593,27KB
+duration=07:00:30
+updateTime=1970年01月19日 10时34分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=81	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27001
+mediaId=27001
+hideId=-1
+id=-1
+title=1568081415263.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081415263.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081415263.mp4
+size=1,79MB
+duration=07:00:29
+updateTime=1970年01月19日 10时34分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=82	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27050
+mediaId=27050
+hideId=-1
+id=-1
+title=1568118513995.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568118513995.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568118513995.mp4
+size=2,81MB
+duration=07:00:26
+updateTime=1970年01月19日 10时35分18秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=83	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27051
+mediaId=27051
+hideId=-1
+id=-1
+title=1568120140788.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568120140788.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568120140788.mp4
+size=555,28KB
+duration=07:00:29
+updateTime=1970年01月19日 10时35分20秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=84	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27626
+mediaId=27626
+hideId=-1
+id=-1
+title=1568081481765.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081481765.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081481765.mp4
+size=0,00B
+updateTime=1970年01月19日 10时36分09秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=85	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27627
+mediaId=27627
+hideId=-1
+id=-1
+title=1568081479493.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081479493.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081479493.mp4
+size=0,00B
+updateTime=1970年01月19日 10时36分09秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=86	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27628
+mediaId=27628
+hideId=-1
+id=-1
+title=1568081477305.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081477305.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081477305.mp4
+size=0,00B
+updateTime=1970年01月19日 10时36分09秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=87	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27629
+mediaId=27629
+hideId=-1
+id=-1
+title=1568081490688.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081490688.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081490688.mp4
+size=0,00B
+updateTime=1970年01月19日 10时36分09秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=88	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27850
+mediaId=27850
+hideId=-1
+id=-1
+title=VID-20190911-WA0006.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0006.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0006.mp4
+size=2,41MB
+duration=07:00:15
+updateTime=1970年01月19日 10时36分17秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=89	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27851
+mediaId=27851
+hideId=-1
+id=-1
+title=VID-20190911-WA0007.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0007.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0007.mp4
+size=1,29MB
+duration=07:00:04
+updateTime=1970年01月19日 10时36分17秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=90	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27852
+mediaId=27852
+hideId=-1
+id=-1
+title=VID-20190911-WA0008.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0008.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0008.mp4
+size=2,37MB
+duration=07:00:15
+updateTime=1970年01月19日 10时36分17秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=91	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27853
+mediaId=27853
+hideId=-1
+id=-1
+title=VID-20190911-WA0009.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0009.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0009.mp4
+size=1,34MB
+duration=07:00:08
+updateTime=1970年01月19日 10时36分17秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=92	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27895
+mediaId=27895
+hideId=-1
+id=-1
+title=VID_20190912_100706.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190912_100706.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190912_100706.mp4
+size=58,86MB
+duration=07:00:28
+updateTime=1970年01月19日 10时37分37秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=93	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27906
+mediaId=27906
+hideId=-1
+id=-1
+title=1568268694105.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568268694105.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568268694105.mp4
+size=4,55MB
+duration=07:00:30
+updateTime=1970年01月19日 10时37分48秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=94	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27960
+mediaId=27960
+hideId=-1
+id=-1
+title=1568290376312.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568290376312.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568290376312.mp4
+size=542,73KB
+duration=07:00:24
+updateTime=1970年01月19日 10时38分10秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=95	VideoEntity[baseId=0]
+uri=content://media/external/video/media/28920
+mediaId=28920
+hideId=-1
+id=-1
+title=VID-20190912-WA0035.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190912-WA0035.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190912-WA0035.mp4
+size=1,57MB
+duration=07:00:28
+updateTime=1970年01月19日 10时38分21秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=96	VideoEntity[baseId=0]
+uri=content://media/external/video/media/30480
+mediaId=30480
+hideId=-1
+id=-1
+title=1568448006691.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568448006691.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568448006691.mp4
+size=2,45MB
+duration=07:00:15
+updateTime=1970年01月19日 10时40分48秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=97	VideoEntity[baseId=0]
+uri=content://media/external/video/media/30910
+mediaId=30910
+hideId=-1
+id=-1
+title=1568520417606.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568520417606.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568520417606.mp4
+size=5,13MB
+duration=07:00:23
+updateTime=1970年01月19日 10时42分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=98	VideoEntity[baseId=0]
+uri=content://media/external/video/media/32020
+mediaId=32020
+hideId=-1
+id=-1
+title=VID-20190918-WA0009.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190918-WA0009.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190918-WA0009.mp4
+size=158,84KB
+duration=07:00:02
+updateTime=1970年01月19日 10时46分28秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=99	VideoEntity[baseId=0]
+uri=content://media/external/video/media/32029
+mediaId=32029
+hideId=-1
+id=-1
+title=1568800727154.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568800727154.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568800727154.mp4
+size=460,16KB
+duration=07:00:29
+updateTime=1970年01月19日 10时46分40秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=100	VideoEntity[baseId=0]
+uri=content://media/external/video/media/33621
+mediaId=33621
+hideId=-1
+id=-1
+title=VID_26700105_005200_238.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_26700105_005200_238.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_26700105_005200_238.mp4
+size=653,34KB
+duration=07:00:04
+updateTime=1970年01月19日 10时47分39秒
+
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=101	VideoEntity[baseId=0]
+uri=content://media/external/video/media/33622
+mediaId=33622
+hideId=-1
+id=-1
+title=VID_26711122_163916_934.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_26711122_163916_934.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_26711122_163916_934.mp4
+size=656,57KB
+duration=07:00:04
+updateTime=1970年01月19日 10时47分39秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=102	VideoEntity[baseId=0]
+uri=content://media/external/video/media/33623
+mediaId=33623
+hideId=-1
+id=-1
+title=VID_26740123_112926_630.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_26740123_112926_630.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_26740123_112926_630.mp4
+size=688,54KB
+duration=07:00:04
+updateTime=1970年01月19日 10时47分39秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=103	VideoEntity[baseId=0]
+uri=content://media/external/video/media/33624
+mediaId=33624
+hideId=-1
+id=-1
+title=VID_26781107_164712_255.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_26781107_164712_255.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_26781107_164712_255.mp4
+size=698,72KB
+duration=07:00:04
+updateTime=1970年01月19日 10时47分39秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=104	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34050
+mediaId=34050
+hideId=-1
+id=-1
+title=1568876203319.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568876203319.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568876203319.mp4
+size=658,00KB
+duration=07:00:02
+updateTime=1970年01月19日 10时47分56秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=105	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34057
+mediaId=34057
+hideId=-1
+id=-1
+title=VID_20190919_163546.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190919_163546.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190919_163546.mp4
+size=29,95MB
+duration=07:00:14
+updateTime=1970年01月19日 10时48分05秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=106	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34059
+mediaId=34059
+hideId=-1
+id=-1
+title=VID-20190919-WA0102.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190919-WA0102.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190919-WA0102.mp4
+size=2,51MB
+duration=07:00:29
+updateTime=1970年01月19日 10时48分07秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=107	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34480
+mediaId=34480
+hideId=-1
+id=-1
+title=1568958219085.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568958219085.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568958219085.mp4
+size=4,46MB
+duration=07:00:30
+updateTime=1970年01月19日 10时49分18秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=108	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34481
+mediaId=34481
+hideId=-1
+id=-1
+title=VID-20190920-WA0012.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190920-WA0012.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190920-WA0012.mp4
+size=1,52MB
+duration=07:00:26
+updateTime=1970年01月19日 10时49分22秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=109	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36423
+mediaId=36423
+hideId=-1
+id=-1
+title=1569156471081.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569156471081.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569156471081.mp4
+size=630,99KB
+duration=07:00:29
+updateTime=1970年01月19日 10时52分36秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=110	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36424
+mediaId=36424
+hideId=-1
+id=-1
+title=1569156479015.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569156479015.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569156479015.mp4
+size=406,51KB
+duration=07:00:24
+updateTime=1970年01月19日 10时52分36秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=111	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36425
+mediaId=36425
+hideId=-1
+id=-1
+title=1569157396586.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569157396586.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569157396586.mp4
+size=1,40MB
+duration=07:00:29
+updateTime=1970年01月19日 10时52分37秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=112	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36483
+mediaId=36483
+hideId=-1
+id=-1
+title=1569191935369.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569191935369.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569191935369.mp4
+size=3,81MB
+duration=07:00:15
+updateTime=1970年01月19日 10时53分11秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=113	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36885
+mediaId=36885
+hideId=-1
+id=-1
+title=1569222134263.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569222134263.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569222134263.mp4
+size=648,92KB
+duration=07:00:28
+updateTime=1970年01月19日 10时53分42秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=114	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36912
+mediaId=36912
+hideId=-1
+id=-1
+title=1569244238652.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569244238652.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569244238652.mp4
+size=4,99MB
+duration=07:00:28
+updateTime=1970年01月19日 10时54分04秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=115	VideoEntity[baseId=0]
+uri=content://media/external/video/media/37559
+mediaId=37559
+hideId=-1
+id=-1
+title=VID_21830519_093452_476.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_21830519_093452_476.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_21830519_093452_476.mp4
+size=1,27MB
+duration=07:00:04
+updateTime=1970年01月19日 10时55分10秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=116	VideoEntity[baseId=0]
+uri=content://media/external/video/media/37560
+mediaId=37560
+hideId=-1
+id=-1
+title=VID_21881226_072239_487.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_21881226_072239_487.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_21881226_072239_487.mp4
+size=525,83KB
+duration=07:00:04
+updateTime=1970年01月19日 10时55分10秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=117	VideoEntity[baseId=0]
+uri=content://media/external/video/media/37567
+mediaId=37567
+hideId=-1
+id=-1
+title=1569320378068.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569320378068.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569320378068.mp4
+size=4,99MB
+duration=07:00:28
+updateTime=1970年01月19日 10时55分20秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=118	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38066
+mediaId=38066
+hideId=-1
+id=-1
+title=1569396013530.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569396013530.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569396013530.mp4
+size=1,53MB
+duration=07:00:30
+updateTime=1970年01月19日 10时56分36秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=119	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38078
+mediaId=38078
+hideId=-1
+id=-1
+title=1569401926551.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569401926551.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569401926551.mp4
+size=829,79KB
+duration=07:00:29
+updateTime=1970年01月19日 10时56分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=120	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38089
+mediaId=38089
+hideId=-1
+id=-1
+title=VID_24101213_212638_287.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_24101213_212638_287.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_24101213_212638_287.mp4
+size=3,85MB
+duration=07:00:14
+updateTime=1970年01月19日 10时56分47秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=121	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38090
+mediaId=38090
+hideId=-1
+id=-1
+title=VID_24100127_024108_285.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_24100127_024108_285.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_24100127_024108_285.mp4
+size=3,85MB
+duration=07:00:14
+updateTime=1970年01月19日 10时56分48秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=122	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38696
+mediaId=38696
+hideId=-1
+id=-1
+title=1569476633798.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569476633798.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569476633798.mp4
+size=894,71KB
+duration=07:00:30
+updateTime=1970年01月19日 10时57分56秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=123	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38697
+mediaId=38697
+hideId=-1
+id=-1
+title=1569476675630.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569476675630.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569476675630.mp4
+size=5,15MB
+duration=07:00:29
+updateTime=1970年01月19日 10时57分56秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=124	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38698
+mediaId=38698
+hideId=-1
+id=-1
+title=1569479760606.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569479760606.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569479760606.mp4
+size=472,68KB
+duration=07:00:30
+updateTime=1970年01月19日 10时57分59秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=125	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38708
+mediaId=38708
+hideId=-1
+id=-1
+title=1569492156215.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569492156215.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569492156215.mp4
+size=328,11KB
+duration=07:00:29
+updateTime=1970年01月19日 10时58分12秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=126	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38725
+mediaId=38725
+hideId=-1
+id=-1
+title=1569539237320.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569539237320.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569539237320.mp4
+size=308,75KB
+duration=07:00:30
+updateTime=1970年01月19日 10时58分59秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=127	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38800
+mediaId=38800
+hideId=-1
+id=-1
+title=1569577192181.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569577192181.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569577192181.mp4
+size=467,66KB
+duration=07:00:15
+updateTime=1970年01月19日 10时59分37秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=128	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40274
+mediaId=40274
+hideId=-1
+id=-1
+title=VID_20190928_153928.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_153928.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_153928.mp4
+size=37,03MB
+duration=07:00:17
+updateTime=1970年01月19日 11时00分59秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=129	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40276
+mediaId=40276
+hideId=-1
+id=-1
+title=VID_20190928_154437.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_154437.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_154437.mp4
+size=22,71MB
+duration=07:00:10
+updateTime=1970年01月19日 11时01分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=130	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40277
+mediaId=40277
+hideId=-1
+id=-1
+title=VID_20190928_154501.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_154501.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_154501.mp4
+size=10,82MB
+duration=07:00:05
+updateTime=1970年01月19日 11时01分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=131	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40315
+mediaId=40315
+hideId=-1
+id=-1
+title=VID_20190928_200220.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_200220.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_200220.mp4
+size=20,31MB
+duration=07:00:09
+updateTime=1970年01月19日 11时01分15秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=132	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40316
+mediaId=40316
+hideId=-1
+id=-1
+title=VID_20190928_202632.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_202632.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_202632.mp4
+size=66,51MB
+duration=07:00:32
+updateTime=1970年01月19日 11时01分17秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=133	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40318
+mediaId=40318
+hideId=-1
+id=-1
+title=VID_20190928_203224.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_203224.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_203224.mp4
+size=64,78MB
+duration=07:00:31
+updateTime=1970年01月19日 11时01分17秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=134	VideoEntity[baseId=0]
+uri=content://media/external/video/media/41015
+mediaId=41015
+hideId=-1
+id=-1
+title=1569743428178.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569743428178.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569743428178.mp4
+size=4,42MB
+duration=07:00:30
+updateTime=1970年01月19日 11时02分23秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=135	VideoEntity[baseId=0]
+uri=content://media/external/video/media/42188
+mediaId=42188
+hideId=-1
+id=-1
+title=1569921759575.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569921759575.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569921759575.mp4
+size=2,93MB
+duration=07:00:29
+updateTime=1970年01月19日 11时05分21秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=136	VideoEntity[baseId=0]
+uri=content://media/external/video/media/42189
+mediaId=42189
+hideId=-1
+id=-1
+title=1569922925877.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569922925877.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569922925877.mp4
+size=3,49MB
+duration=07:00:15
+updateTime=1970年01月19日 11时05分22秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=137	VideoEntity[baseId=0]
+uri=content://media/external/video/media/43051
+mediaId=43051
+hideId=-1
+id=-1
+title=VID_20191001_192639.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20191001_192639.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20191001_192639.mp4
+size=106,32MB
+duration=07:00:52
+updateTime=1970年01月19日 11时05分32秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=138	VideoEntity[baseId=0]
+uri=content://media/external/video/media/43113
+mediaId=43113
+hideId=-1
+id=-1
+title=1570064808886.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570064808886.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570064808886.mp4
+size=643,24KB
+duration=07:00:27
+updateTime=1970年01月19日 11时07分44秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=139	VideoEntity[baseId=0]
+uri=content://media/external/video/media/43125
+mediaId=43125
+hideId=-1
+id=-1
+title=1570066662340.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570066662340.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570066662340.mp4
+size=3,54MB
+duration=07:00:15
+updateTime=1970年01月19日 11时07分46秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=140	VideoEntity[baseId=0]
+uri=content://media/external/video/media/43133
+mediaId=43133
+hideId=-1
+id=-1
+title=VID-20191003-WA0038.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191003-WA0038.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191003-WA0038.mp4
+size=555,54KB
+duration=07:00:29
+updateTime=1970年01月19日 11时08分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=141	VideoEntity[baseId=0]
+uri=content://media/external/video/media/44740
+mediaId=44740
+hideId=-1
+id=-1
+title=1570152157607.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570152157607.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570152157607.mp4
+size=628,15KB
+duration=07:00:28
+updateTime=1970年01月19日 11时09分12秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=142	VideoEntity[baseId=0]
+uri=content://media/external/video/media/44741
+mediaId=44741
+hideId=-1
+id=-1
+title=1570152188213.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570152188213.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570152188213.mp4
+size=10,50MB
+duration=07:00:20
+updateTime=1970年01月19日 11时09分12秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=143	VideoEntity[baseId=0]
+uri=content://media/external/video/media/44824
+mediaId=44824
+hideId=-1
+id=-1
+title=1570196097507.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570196097507.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570196097507.mp4
+size=1,80MB
+duration=07:00:28
+updateTime=1970年01月19日 11时09分56秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=144	VideoEntity[baseId=0]
+uri=content://media/external/video/media/44827
+mediaId=44827
+hideId=-1
+id=-1
+title=1570229765414.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570229765414.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570229765414.mp4
+size=1,09MB
+duration=07:00:29
+updateTime=1970年01月19日 11时10分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=145	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45297
+mediaId=45297
+hideId=-1
+id=-1
+title=1570261100652.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570261100652.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570261100652.mp4
+size=1,27MB
+duration=07:00:26
+updateTime=1970年01月19日 11时11分01秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=146	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45332
+mediaId=45332
+hideId=-1
+id=-1
+title=1570285082180.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570285082180.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570285082180.mp4
+size=1,35MB
+duration=07:00:14
+updateTime=1970年01月19日 11时11分25秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=147	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45350
+mediaId=45350
+hideId=-1
+id=-1
+title=VID-20191006-WA0035.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191006-WA0035.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191006-WA0035.mp4
+size=6,73MB
+duration=07:00:33
+updateTime=1970年01月19日 11时12分28秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=148	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45352
+mediaId=45352
+hideId=-1
+id=-1
+title=1570353436761.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570353436761.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570353436761.mp4
+size=1,89MB
+duration=07:00:29
+updateTime=1970年01月19日 11时12分33秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=149	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45354
+mediaId=45354
+hideId=-1
+id=-1
+title=1570353567185.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570353567185.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570353567185.mp4
+size=4,53MB
+duration=07:00:29
+updateTime=1970年01月19日 11时12分33秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=150	VideoEntity[baseId=0]
+uri=content://media/external/video/media/46306
+mediaId=46306
+hideId=-1
+id=-1
+title=VID-20191007-WA0009.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191007-WA0009.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191007-WA0009.mp4
+size=5,65MB
+duration=07:00:29
+updateTime=1970年01月19日 11时13分37秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=151	VideoEntity[baseId=0]
+uri=content://media/external/video/media/46333
+mediaId=46333
+hideId=-1
+id=-1
+title=1570429903789.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570429903789.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570429903789.mp4
+size=4,67MB
+duration=07:00:30
+updateTime=1970年01月19日 11时13分49秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=152	VideoEntity[baseId=0]
+uri=content://media/external/video/media/46334
+mediaId=46334
+hideId=-1
+id=-1
+title=VID-20191007-WA0055.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191007-WA0055.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191007-WA0055.mp4
+size=9,92MB
+duration=07:06:49
+updateTime=1970年01月19日 11时13分50秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=153	VideoEntity[baseId=0]
+uri=content://media/external/video/media/46440
+mediaId=46440
+hideId=-1
+id=-1
+title=VID_20191009_115827.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20191009_115827.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20191009_115827.mp4
+size=76,32MB
+duration=07:00:37
+updateTime=1970年01月19日 11时16分37秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=154	VideoEntity[baseId=0]
+uri=content://media/external/video/media/48445
+mediaId=48445
+hideId=-1
+id=-1
+title=1570610456793.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570610456793.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570610456793.mp4
+size=1,59MB
+duration=07:00:30
+updateTime=1970年01月19日 11时16分50秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=155	VideoEntity[baseId=0]
+uri=content://media/external/video/media/48487
+mediaId=48487
+hideId=-1
+id=-1
+title=1570629957081.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570629957081.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570629957081.mp4
+size=1010,96KB
+duration=07:00:24
+updateTime=1970年01月19日 11时17分09秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=156	VideoEntity[baseId=0]
+uri=content://media/external/video/media/48488
+mediaId=48488
+hideId=-1
+id=-1
+title=1570629967576.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570629967576.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570629967576.mp4
+size=1,11MB
+duration=07:00:30
+updateTime=1970年01月19日 11时17分09秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=157	VideoEntity[baseId=0]
+uri=content://media/external/video/media/48491
+mediaId=48491
+hideId=-1
+id=-1
+title=1570661109363.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570661109363.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570661109363.mp4
+size=1,44MB
+duration=07:00:30
+updateTime=1970年01月19日 11时17分41秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=158	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49341
+mediaId=49341
+hideId=-1
+id=-1
+title=VID-20191010-WA0037.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0037.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0037.mp4
+size=518,66KB
+duration=07:00:14
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=159	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49342
+mediaId=49342
+hideId=-1
+id=-1
+title=VID-20191010-WA0038.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0038.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0038.mp4
+size=549,25KB
+duration=07:00:14
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=160	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49343
+mediaId=49343
+hideId=-1
+id=-1
+title=VID-20191010-WA0039.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0039.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0039.mp4
+size=1,18MB
+duration=07:00:29
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=161	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49344
+mediaId=49344
+hideId=-1
+id=-1
+title=VID-20191010-WA0044.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0044.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0044.mp4
+size=3,91MB
+duration=07:00:30
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=162	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49346
+mediaId=49346
+hideId=-1
+id=-1
+title=VID-20191010-WA0046.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0046.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0046.mp4
+size=6,13MB
+duration=07:00:30
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=163	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49348
+mediaId=49348
+hideId=-1
+id=-1
+title=VID-20191010-WA0053.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0053.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0053.mp4
+size=9,02MB
+duration=07:00:30
+updateTime=1970年01月19日 11时18分30秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=164	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49905
+mediaId=49905
+hideId=-1
+id=-1
+title=VID_37980902_054447_053.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_37980902_054447_053.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_37980902_054447_053.mp4
+size=3,86MB
+duration=07:00:14
+updateTime=1970年01月19日 11时19分40秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=165	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50063
+mediaId=50063
+hideId=-1
+id=-1
+title=1570802318413.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570802318413.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570802318413.mp4
+size=825,94KB
+duration=07:00:29
+updateTime=1970年01月19日 11时20分02秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=166	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50787
+mediaId=50787
+hideId=-1
+id=-1
+title=1570890936133.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890936133.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890936133.mp4
+size=497,55KB
+duration=07:00:28
+updateTime=1970年01月19日 11时21分30秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=167	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50788
+mediaId=50788
+hideId=-1
+id=-1
+title=1570890940870.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890940870.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890940870.mp4
+size=787,61KB
+duration=07:00:28
+updateTime=1970年01月19日 11时21分30秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=168	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50789
+mediaId=50789
+hideId=-1
+id=-1
+title=1570890947928.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890947928.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890947928.mp4
+size=739,40KB
+duration=07:00:29
+updateTime=1970年01月19日 11时21分30秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=169	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50882
+mediaId=50882
+hideId=-1
+id=-1
+title=VID-20191014-WA0034.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191014-WA0034.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191014-WA0034.mp4
+size=2,48MB
+duration=07:00:09
+updateTime=1970年01月19日 11时24分18秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=170	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50886
+mediaId=50886
+hideId=-1
+id=-1
+title=VID-20191014-WA0036.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191014-WA0036.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191014-WA0036.mp4
+size=320,01KB
+duration=07:00:19
+updateTime=1970年01月19日 11时24分18秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=171	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50912
+mediaId=50912
+hideId=-1
+id=-1
+title=VID_20191015_074854.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20191015_074854.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20191015_074854.mp4
+size=19,57MB
+duration=07:00:09
+updateTime=1970年01月19日 11时25分00秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=172	VideoEntity[baseId=0]
+uri=content://media/external/video/media/52678
+mediaId=52678
+hideId=-1
+id=-1
+title=VID-20191015-WA0015.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191015-WA0015.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191015-WA0015.mp4
+size=7,02MB
+duration=07:00:35
+updateTime=1970年01月19日 11时25分14秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=173	VideoEntity[baseId=0]
+uri=content://media/external/video/media/52737
+mediaId=52737
+hideId=-1
+id=-1
+title=VID-20191016-WA0022.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191016-WA0022.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191016-WA0022.mp4
+size=945,48KB
+duration=07:00:05
+updateTime=1970年01月19日 11时26分44秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=174	VideoEntity[baseId=0]
+uri=content://media/external/video/media/52738
+mediaId=52738
+hideId=-1
+id=-1
+title=VID-20191016-WA0023.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191016-WA0023.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191016-WA0023.mp4
+size=935,78KB
+duration=07:00:05
+updateTime=1970年01月19日 11时26分44秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=175	VideoEntity[baseId=0]
+uri=content://media/external/video/media/52896
+mediaId=52896
+hideId=-1
+id=-1
+title=VID-20191018-WA0017.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191018-WA0017.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191018-WA0017.mp4
+size=3,12MB
+duration=07:00:37
+updateTime=1970年01月19日 11时29分38秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=176	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56281
+mediaId=56281
+hideId=-1
+id=-1
+title=VID-20191020-WA0029.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191020-WA0029.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191020-WA0029.mp4
+size=5,63MB
+duration=07:00:14
+updateTime=1970年01月19日 11时32分46秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=177	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56283
+mediaId=56283
+hideId=-1
+id=-1
+title=VID-20191020-WA0034.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191020-WA0034.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191020-WA0034.mp4
+size=1,84MB
+duration=07:00:15
+updateTime=1970年01月19日 11时32分47秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=178	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56289
+mediaId=56289
+hideId=-1
+id=-1
+title=1571571869212.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571571869212.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571571869212.mp4
+size=664,54KB
+duration=07:00:21
+updateTime=1970年01月19日 11时32分51秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=179	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56293
+mediaId=56293
+hideId=-1
+id=-1
+title=1571573179238.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571573179238.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571573179238.mp4
+size=417,43KB
+duration=07:00:28
+updateTime=1970年01月19日 11时32分53秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=180	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56316
+mediaId=56316
+hideId=-1
+id=-1
+title=VID-20191021-WA0004.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191021-WA0004.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191021-WA0004.mp4
+size=1,23MB
+duration=07:00:05
+updateTime=1970年01月19日 11时33分54秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=181	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56359
+mediaId=56359
+hideId=-1
+id=-1
+title=1571742755485.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571742755485.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571742755485.mp4
+size=3,12MB
+duration=07:00:29
+updateTime=1970年01月19日 11时35分42秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=182	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56368
+mediaId=56368
+hideId=-1
+id=-1
+title=1571751985236.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571751985236.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571751985236.mp4
+size=4,54MB
+duration=07:00:17
+updateTime=1970年01月19日 11时35分51秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=183	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56369
+mediaId=56369
+hideId=-1
+id=-1
+title=VID-20191022-WA0025.3gp
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191022-WA0025.3gp
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191022-WA0025.3gp
+size=5,67MB
+duration=07:00:28
+updateTime=1970年01月19日 11时35分52秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=184	VideoEntity[baseId=0]
+uri=content://media/external/video/media/58594
+mediaId=58594
+hideId=-1
+id=-1
+title=1571961194502.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571961194502.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571961194502.mp4
+size=1,45MB
+duration=07:00:15
+updateTime=1970年01月19日 11时39分21秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=185	VideoEntity[baseId=0]
+uri=content://media/external/video/media/58595
+mediaId=58595
+hideId=-1
+id=-1
+title=1571962125195.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571962125195.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571962125195.mp4
+size=4,59MB
+duration=07:00:30
+updateTime=1970年01月19日 11时39分22秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=186	VideoEntity[baseId=0]
+uri=content://media/external/video/media/59616
+mediaId=59616
+hideId=-1
+id=-1
+title=1572003927637.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572003927637.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572003927637.mp4
+size=334,26KB
+duration=07:00:30
+updateTime=1970年01月19日 11时40分03秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=187	VideoEntity[baseId=0]
+uri=content://media/external/video/media/59617
+mediaId=59617
+hideId=-1
+id=-1
+title=1572003932228.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572003932228.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572003932228.mp4
+size=473,89KB
+duration=07:00:24
+updateTime=1970年01月19日 11时40分03秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=188	VideoEntity[baseId=0]
+uri=content://media/external/video/media/60306
+mediaId=60306
+hideId=-1
+id=-1
+title=1572044765692.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572044765692.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572044765692.mp4
+size=4,52MB
+duration=07:00:17
+updateTime=1970年01月19日 11时40分44秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=189	VideoEntity[baseId=0]
+uri=content://media/external/video/media/60674
+mediaId=60674
+hideId=-1
+id=-1
+title=VID_20191026_182551.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20191026_182551.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20191026_182551.mp4
+size=23,63MB
+duration=07:00:11
+updateTime=1970年01月19日 11时41分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=190	VideoEntity[baseId=0]
+uri=content://media/external/video/media/60677
+mediaId=60677
+hideId=-1
+id=-1
+title=VID_20191026_183540.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20191026_183540.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20191026_183540.mp4
+size=53,25MB
+duration=07:00:26
+updateTime=1970年01月19日 11时41分29秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=191	VideoEntity[baseId=0]
+uri=content://media/external/video/media/61045
+mediaId=61045
+hideId=-1
+id=-1
+title=VID-20191027-WA0024.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191027-WA0024.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191027-WA0024.mp4
+size=2,08MB
+duration=07:00:29
+updateTime=1970年01月19日 11时42分43秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=192	VideoEntity[baseId=0]
+uri=content://media/external/video/media/61097
+mediaId=61097
+hideId=-1
+id=-1
+title=1572253719823.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572253719823.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572253719823.mp4
+size=4,48MB
+duration=07:00:29
+updateTime=1970年01月19日 11时44分13秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=193	VideoEntity[baseId=0]
+uri=content://media/external/video/media/61119
+mediaId=61119
+hideId=-1
+id=-1
+title=VID-20191028-WA0075.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191028-WA0075.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191028-WA0075.mp4
+size=658,38KB
+duration=07:00:30
+updateTime=1970年01月19日 11时44分27秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=194	VideoEntity[baseId=0]
+uri=content://media/external/video/media/62663
+mediaId=62663
+hideId=-1
+id=-1
+title=1572325674148.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572325674148.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572325674148.mp4
+size=2,88MB
+duration=07:00:20
+updateTime=1970年01月19日 11时45分25秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=195	VideoEntity[baseId=0]
+uri=content://media/external/video/media/62690
+mediaId=62690
+hideId=-1
+id=-1
+title=1572330625987.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572330625987.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572330625987.mp4
+size=575,16KB
+duration=07:00:29
+updateTime=1970年01月19日 11时45分30秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=196	VideoEntity[baseId=0]
+uri=content://media/external/video/media/63871
+mediaId=63871
+hideId=-1
+id=-1
+title=1572472352687.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572472352687.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572472352687.mp4
+size=3,98MB
+duration=07:00:28
+updateTime=1970年01月19日 11时47分52秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=197	VideoEntity[baseId=0]
+uri=content://media/external/video/media/63873
+mediaId=63873
+hideId=-1
+id=-1
+title=1572472373625.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572472373625.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572472373625.mp4
+size=532,63KB
+duration=07:00:28
+updateTime=1970年01月19日 11时47分52秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=198	VideoEntity[baseId=0]
+uri=content://media/external/video/media/63874
+mediaId=63874
+hideId=-1
+id=-1
+title=1572472453933.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572472453933.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572472453933.mp4
+size=877,06KB
+duration=07:00:30
+updateTime=1970年01月19日 11时47分52秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=199	VideoEntity[baseId=0]
+uri=content://media/external/video/media/64242
+mediaId=64242
+hideId=-1
+id=-1
+title=VID-20191031-WA0017.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191031-WA0017.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191031-WA0017.mp4
+size=2,10MB
+duration=07:00:05
+updateTime=1970年01月19日 11时48分05秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=200	VideoEntity[baseId=0]
+uri=content://media/external/video/media/64243
+mediaId=64243
+hideId=-1
+id=-1
+title=VID-20191031-WA0018.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191031-WA0018.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191031-WA0018.mp4
+size=2,05MB
+duration=07:00:05
+updateTime=1970年01月19日 11时48分05秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=201	VideoEntity[baseId=0]
+uri=content://media/external/video/media/64248
+mediaId=64248
+hideId=-1
+id=-1
+title=1572501244982.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572501244982.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572501244982.mp4
+size=4,93MB
+duration=07:00:25
+updateTime=1970年01月19日 11时48分21秒
+
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=202	VideoEntity[baseId=0]
+uri=content://media/external/video/media/64367
+mediaId=64367
+hideId=-1
+id=-1
+title=VID_112210920_001749_626.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_112210920_001749_626.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_112210920_001749_626.mp4
+size=1,91MB
+duration=07:00:05
+updateTime=1970年01月19日 11时49分36秒
+
+2019-11-07 08:37:06	DEBUG	DBUtils	[ moveToNext ] size=203	VideoEntity[baseId=0]
+uri=content://media/external/video/media/67003
+mediaId=67003
+hideId=-1
+id=-1
+title=VID_22870319_204307_133.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_22870319_204307_133.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_22870319_204307_133.mp4
+size=1,22MB
+duration=07:00:03
+updateTime=1970年01月19日 11时53分07秒
+
+2019-11-07 08:37:06	DEBUG	CLVDatabase	[ queryCount ] getCount=0	com.miui.video.framework.db.TableEntity@3e5548d
+tableName=videohide
+
+2019-11-07 08:37:06	DEBUG	CLVDatabase	[ query ] getCount=0	com.miui.video.framework.db.TableEntity@a762642
+tableName=videohide
+
+2019-11-07 08:37:06	DEBUG	DataUtils	[ addData ] key= com.miui.video.KEY_INIT_VIDEOS  obj= LocalVideoListEntity[baseId=0]
+2019-11-07 08:37:06	DEBUG	DownloadTask	[ onPostExecute ] Thread= 25383  Action= com.miui.video.KEY_INIT_VIDEOS  State= 1  Entity= com.miui.video.framework.task.TaskEntity@ff4c3cc
+2019-11-07 08:37:06	DEBUG	DataUtils	[ addData ] key= com.miui.video.KEY_INIT_VIDEOS  obj= LocalVideoListEntity[baseId=0]
+2019-11-07 08:37:06	DEBUG	DataUtils	[ getData ] key= com.miui.video.KEY_INIT_VIDEOS  obj= LocalVideoListEntity[baseId=0]
+2019-11-07 08:37:06	DEBUG	DownloadTask	[ onPreExecute ] Thread= 0  Action= com.miui.video.KEY_FOLDER_GROUP  State= 2  Entity= com.miui.video.framework.task.TaskEntity@d029653
+2019-11-07 08:37:06	DEBUG	DownloadTask	[ doInBackground ] Thread= 25387  Action= com.miui.video.KEY_FOLDER_GROUP  State= 2  Entity= com.miui.video.framework.task.TaskEntity@d029653
+2019-11-07 08:37:06	DEBUG	DownloadTask	[ onPostExecute ] Thread= 25387  Action= com.miui.video.KEY_FOLDER_GROUP  State= 1  Entity= com.miui.video.framework.task.TaskEntity@d029653
+2019-11-07 08:37:06	DEBUG	DataUtils	[ removeUI ] ui= com.miui.video.global.app.LauncherActivity@8bab52c
+2019-11-07 08:37:54	DEBUG	DownloadTask	[ onPreExecute ] Thread= 0  Action= com.miui.video.KEY_INIT_VIDEOS  State= 2  Entity= com.miui.video.framework.task.TaskEntity@98bbf31
+2019-11-07 08:37:54	DEBUG	DownloadTask	[ doInBackground ] Thread= 25388  Action= com.miui.video.KEY_INIT_VIDEOS  State= 2  Entity= com.miui.video.framework.task.TaskEntity@98bbf31
+2019-11-07 08:37:54	DEBUG	CLVDatabase	[ query ] getCount=203	com.miui.video.framework.db.TableEntity@e32fb97
+tableName=null
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=1	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1013
+mediaId=1013
+hideId=-1
+id=-1
+title=1564738871731.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564738871731.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564738871731.mp4
+size=4,42MB
+duration=07:00:30
+updateTime=1970年01月19日 09时38分58秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=2	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1014
+mediaId=1014
+hideId=-1
+id=-1
+title=1564740273575.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564740273575.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564740273575.mp4
+size=2,85MB
+duration=07:00:30
+updateTime=1970年01月19日 09时39分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=3	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1050
+mediaId=1050
+hideId=-1
+id=-1
+title=1564746602698.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564746602698.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564746602698.mp4
+size=687,12KB
+duration=07:00:29
+updateTime=1970年01月19日 09时39分06秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=4	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1069
+mediaId=1069
+hideId=-1
+id=-1
+title=1564758908134.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564758908134.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564758908134.mp4
+size=4,67MB
+duration=07:00:30
+updateTime=1970年01月19日 09时39分18秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=5	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1070
+mediaId=1070
+hideId=-1
+id=-1
+title=VID-20190803-WA0001.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190803-WA0001.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190803-WA0001.mp4
+size=1,29MB
+duration=07:00:30
+updateTime=1970年01月19日 09时40分04秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=6	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1151
+mediaId=1151
+hideId=-1
+id=-1
+title=1564961691356.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564961691356.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564961691356.mp4
+size=4,65MB
+duration=07:00:29
+updateTime=1970年01月19日 09时42分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=7	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1152
+mediaId=1152
+hideId=-1
+id=-1
+title=1564961704553.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564961704553.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1564961704553.mp4
+size=1,72MB
+duration=07:00:30
+updateTime=1970年01月19日 09时42分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=8	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1188
+mediaId=1188
+hideId=-1
+id=-1
+title=VID-20190805-WA0070.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190805-WA0070.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190805-WA0070.mp4
+size=2,18MB
+duration=07:00:17
+updateTime=1970年01月19日 09时43分31秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=9	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1189
+mediaId=1189
+hideId=-1
+id=-1
+title=1565011779597.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565011779597.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565011779597.mp4
+size=548,83KB
+duration=07:00:17
+updateTime=1970年01月19日 09时43分31秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=10	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1192
+mediaId=1192
+hideId=-1
+id=-1
+title=1565012337553.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565012337553.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565012337553.mp4
+size=3,85MB
+duration=07:00:29
+updateTime=1970年01月19日 09时43分32秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=11	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1265
+mediaId=1265
+hideId=-1
+id=-1
+title=1565088592617.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565088592617.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565088592617.mp4
+size=3,35MB
+duration=07:00:29
+updateTime=1970年01月19日 09时44分48秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=12	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1306
+mediaId=1306
+hideId=-1
+id=-1
+title=1565172655080.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565172655080.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565172655080.mp4
+size=957,67KB
+duration=07:00:29
+updateTime=1970年01月19日 09时46分12秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=13	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1669
+mediaId=1669
+hideId=-1
+id=-1
+title=VID-20190811-WA0090.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190811-WA0090.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190811-WA0090.mp4
+size=10,92MB
+duration=07:00:29
+updateTime=1970年01月19日 09时51分55秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=14	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1670
+mediaId=1670
+hideId=-1
+id=-1
+title=VID-20190811-WA0099.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190811-WA0099.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190811-WA0099.mp4
+size=10,99MB
+duration=07:00:29
+updateTime=1970年01月19日 09时51分57秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=15	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1692
+mediaId=1692
+hideId=-1
+id=-1
+title=1565533672347.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565533672347.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565533672347.mp4
+size=4,47MB
+duration=07:00:29
+updateTime=1970年01月19日 09时52分13秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=16	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1693
+mediaId=1693
+hideId=-1
+id=-1
+title=1565569819301.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565569819301.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565569819301.mp4
+size=634,38KB
+duration=07:00:25
+updateTime=1970年01月19日 09时52分49秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=17	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1695
+mediaId=1695
+hideId=-1
+id=-1
+title=1565569830632.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565569830632.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565569830632.mp4
+size=885,15KB
+duration=07:00:27
+updateTime=1970年01月19日 09时52分49秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=18	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1698
+mediaId=1698
+hideId=-1
+id=-1
+title=1565574347810.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565574347810.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565574347810.mp4
+size=898,98KB
+duration=07:00:30
+updateTime=1970年01月19日 09时52分54秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=19	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1704
+mediaId=1704
+hideId=-1
+id=-1
+title=1565595083873.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565595083873.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565595083873.mp4
+size=950,71KB
+duration=07:00:29
+updateTime=1970年01月19日 09时53分15秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=20	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1706
+mediaId=1706
+hideId=-1
+id=-1
+title=1565595518627.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565595518627.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565595518627.mp4
+size=1,02MB
+duration=07:00:20
+updateTime=1970年01月19日 09时53分15秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=21	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1788
+mediaId=1788
+hideId=-1
+id=-1
+title=VID-20190813-WA0029.3gp
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190813-WA0029.3gp
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190813-WA0029.3gp
+size=8,57MB
+duration=07:00:30
+updateTime=1970年01月19日 09时54分57秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=22	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1816
+mediaId=1816
+hideId=-1
+id=-1
+title=VID-20190814-WA0013.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190814-WA0013.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190814-WA0013.mp4
+size=7,76MB
+duration=07:00:41
+updateTime=1970年01月19日 09时55分47秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=23	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1838
+mediaId=1838
+hideId=-1
+id=-1
+title=1565776157775.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565776157775.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565776157775.mp4
+size=529,45KB
+duration=07:00:30
+updateTime=1970年01月19日 09时56分16秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=24	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1840
+mediaId=1840
+hideId=-1
+id=-1
+title=1565780944854.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565780944854.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565780944854.mp4
+size=508,60KB
+duration=07:00:27
+updateTime=1970年01月19日 09时56分20秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=25	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1845
+mediaId=1845
+hideId=-1
+id=-1
+title=1565785272479.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565785272479.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565785272479.mp4
+size=524,63KB
+duration=07:00:29
+updateTime=1970年01月19日 09时56分25秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=26	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1854
+mediaId=1854
+hideId=-1
+id=-1
+title=VID-20190814-WA0115.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190814-WA0115.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190814-WA0115.mp4
+size=4,01MB
+duration=07:00:30
+updateTime=1970年01月19日 09时56分33秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=27	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1856
+mediaId=1856
+hideId=-1
+id=-1
+title=1565821739972.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821739972.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821739972.mp4
+size=921,40KB
+duration=07:00:28
+updateTime=1970年01月19日 09时57分01秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=28	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1857
+mediaId=1857
+hideId=-1
+id=-1
+title=1565821744612.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821744612.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821744612.mp4
+size=811,32KB
+duration=07:00:30
+updateTime=1970年01月19日 09时57分01秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=29	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1858
+mediaId=1858
+hideId=-1
+id=-1
+title=1565821749340.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821749340.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821749340.mp4
+size=1,14MB
+duration=07:00:29
+updateTime=1970年01月19日 09时57分01秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=30	VideoEntity[baseId=0]
+uri=content://media/external/video/media/1859
+mediaId=1859
+hideId=-1
+id=-1
+title=1565821911336.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821911336.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565821911336.mp4
+size=1,54MB
+duration=07:00:29
+updateTime=1970年01月19日 09时57分01秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=31	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9000
+mediaId=9000
+hideId=-1
+id=-1
+title=VID_149240316_015619_500.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_149240316_015619_500.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_149240316_015619_500.mp4
+size=8,69MB
+duration=07:00:19
+updateTime=1970年01月19日 09时57分39秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=32	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9205
+mediaId=9205
+hideId=-1
+id=-1
+title=VID-20190815-WA0092.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190815-WA0092.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190815-WA0092.mp4
+size=5,90MB
+duration=07:00:25
+updateTime=1970年01月19日 09时57分57秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=33	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9208
+mediaId=9208
+hideId=-1
+id=-1
+title=1565880009535.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565880009535.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565880009535.mp4
+size=425,28KB
+duration=07:00:29
+updateTime=1970年01月19日 09时58分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=34	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9209
+mediaId=9209
+hideId=-1
+id=-1
+title=VID-20190815-WA0109.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190815-WA0109.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190815-WA0109.mp4
+size=8,25MB
+duration=07:01:55
+updateTime=1970年01月19日 09时58分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=35	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9211
+mediaId=9211
+hideId=-1
+id=-1
+title=1565908111985.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565908111985.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1565908111985.mp4
+size=4,44MB
+duration=07:00:30
+updateTime=1970年01月19日 09时58分28秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=36	VideoEntity[baseId=0]
+uri=content://media/external/video/media/9242
+mediaId=9242
+hideId=-1
+id=-1
+title=1566000620576.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566000620576.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566000620576.mp4
+size=1,84MB
+duration=07:00:30
+updateTime=1970年01月19日 10时00分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=37	VideoEntity[baseId=0]
+uri=content://media/external/video/media/12116
+mediaId=12116
+hideId=-1
+id=-1
+title=VID-20190819-WA0054.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190819-WA0054.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190819-WA0054.mp4
+size=1,33MB
+duration=07:00:30
+updateTime=1970年01月19日 10时03分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=38	VideoEntity[baseId=0]
+uri=content://media/external/video/media/12117
+mediaId=12117
+hideId=-1
+id=-1
+title=1566221580228.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566221580228.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566221580228.mp4
+size=566,34KB
+duration=07:00:30
+updateTime=1970年01月19日 10时03分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=39	VideoEntity[baseId=0]
+uri=content://media/external/video/media/12144
+mediaId=12144
+hideId=-1
+id=-1
+title=VID-20190820-WA0018.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190820-WA0018.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190820-WA0018.mp4
+size=7,20MB
+duration=07:00:41
+updateTime=1970年01月19日 10时05分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=40	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13413
+mediaId=13413
+hideId=-1
+id=-1
+title=1566394382162.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566394382162.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566394382162.mp4
+size=908,84KB
+duration=07:00:30
+updateTime=1970年01月19日 10时06分34秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=41	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13414
+mediaId=13414
+hideId=-1
+id=-1
+title=1566394735816.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566394735816.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566394735816.mp4
+size=2,44MB
+duration=07:00:29
+updateTime=1970年01月19日 10时06分34秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=42	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13479
+mediaId=13479
+hideId=-1
+id=-1
+title=1566466081784.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466081784.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466081784.mp4
+size=531,75KB
+duration=07:00:26
+updateTime=1970年01月19日 10时07分46秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=43	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13481
+mediaId=13481
+hideId=-1
+id=-1
+title=1566466099488.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466099488.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466099488.mp4
+size=1,05MB
+duration=07:00:28
+updateTime=1970年01月19日 10时07分46秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=44	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13482
+mediaId=13482
+hideId=-1
+id=-1
+title=1566466112277.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466112277.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566466112277.mp4
+size=1,10MB
+duration=07:00:29
+updateTime=1970年01月19日 10时07分46秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=45	VideoEntity[baseId=0]
+uri=content://media/external/video/media/13534
+mediaId=13534
+hideId=-1
+id=-1
+title=1566572424336.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566572424336.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566572424336.mp4
+size=876,08KB
+duration=07:00:29
+updateTime=1970年01月19日 10时09分32秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=46	VideoEntity[baseId=0]
+uri=content://media/external/video/media/17018
+mediaId=17018
+hideId=-1
+id=-1
+title=1566832151630.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566832151630.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566832151630.mp4
+size=1,40MB
+duration=07:00:30
+updateTime=1970年01月19日 10时13分52秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=47	VideoEntity[baseId=0]
+uri=content://media/external/video/media/17019
+mediaId=17019
+hideId=-1
+id=-1
+title=1566833743714.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566833743714.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566833743714.mp4
+size=5,62MB
+duration=07:00:30
+updateTime=1970年01月19日 10时13分53秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=48	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18268
+mediaId=18268
+hideId=-1
+id=-1
+title=1566910403242.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566910403242.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566910403242.mp4
+size=556,36KB
+duration=07:00:29
+updateTime=1970年01月19日 10时15分10秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=49	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18283
+mediaId=18283
+hideId=-1
+id=-1
+title=VID-20190828-WA0001.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190828-WA0001.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190828-WA0001.mp4
+size=806,83KB
+duration=07:00:05
+updateTime=1970年01月19日 10时15分56秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=50	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18310
+mediaId=18310
+hideId=-1
+id=-1
+title=1566984280569.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566984280569.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1566984280569.mp4
+size=4,92MB
+duration=07:00:27
+updateTime=1970年01月19日 10时16分24秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=51	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18375
+mediaId=18375
+hideId=-1
+id=-1
+title=1567031886336.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567031886336.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567031886336.mp4
+size=315,04KB
+duration=07:00:22
+updateTime=1970年01月19日 10时17分11秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=52	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18394
+mediaId=18394
+hideId=-1
+id=-1
+title=VID_20190829_135139_1.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190829_135139_1.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190829_135139_1.mp4
+size=54,03MB
+duration=07:00:26
+updateTime=1970年01月19日 10时17分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=53	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18397
+mediaId=18397
+hideId=-1
+id=-1
+title=1567071559591.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567071559591.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567071559591.mp4
+size=203,31KB
+duration=07:00:14
+updateTime=1970年01月19日 10时17分51秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=54	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18403
+mediaId=18403
+hideId=-1
+id=-1
+title=1567124140816.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567124140816.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567124140816.mp4
+size=2,63MB
+duration=07:00:14
+updateTime=1970年01月19日 10时18分44秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=55	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18404
+mediaId=18404
+hideId=-1
+id=-1
+title=1567124435451.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567124435451.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567124435451.mp4
+size=235,84KB
+duration=07:00:19
+updateTime=1970年01月19日 10时18分44秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=56	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18410
+mediaId=18410
+hideId=-1
+id=-1
+title=1567133163402.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567133163402.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567133163402.mp4
+size=667,67KB
+duration=07:00:26
+updateTime=1970年01月19日 10时18分53秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=57	VideoEntity[baseId=0]
+uri=content://media/external/video/media/18419
+mediaId=18419
+hideId=-1
+id=-1
+title=1567141498181.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567141498181.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567141498181.mp4
+size=988,35KB
+duration=07:00:29
+updateTime=1970年01月19日 10时19分01秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=58	VideoEntity[baseId=0]
+uri=content://media/external/video/media/20470
+mediaId=20470
+hideId=-1
+id=-1
+title=VID-20190830-WA0092.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190830-WA0092.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190830-WA0092.mp4
+size=209,73KB
+duration=07:00:03
+updateTime=1970年01月19日 10时19分32秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=59	VideoEntity[baseId=0]
+uri=content://media/external/video/media/20571
+mediaId=20571
+hideId=-1
+id=-1
+title=VID-20190902-WA0015.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190902-WA0015.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190902-WA0015.mp4
+size=5,02MB
+duration=07:00:30
+updateTime=1970年01月19日 10时23分47秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=60	VideoEntity[baseId=0]
+uri=content://media/external/video/media/20586
+mediaId=20586
+hideId=-1
+id=-1
+title=1567495076268.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567495076268.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567495076268.mp4
+size=803,33KB
+duration=07:00:29
+updateTime=1970年01月19日 10时24分55秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=61	VideoEntity[baseId=0]
+uri=content://media/external/video/media/20592
+mediaId=20592
+hideId=-1
+id=-1
+title=1567500611599.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567500611599.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567500611599.mp4
+size=1,73MB
+duration=07:00:20
+updateTime=1970年01月19日 10时25分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=62	VideoEntity[baseId=0]
+uri=content://media/external/video/media/22578
+mediaId=22578
+hideId=-1
+id=-1
+title=VID_68560816_133129_646.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_68560816_133129_646.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_68560816_133129_646.mp4
+size=3,95MB
+duration=07:00:14
+updateTime=1970年01月19日 10时25分22秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=63	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23064
+mediaId=23064
+hideId=-1
+id=-1
+title=VID-20190904-WA0023.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190904-WA0023.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190904-WA0023.mp4
+size=790,48KB
+duration=07:00:03
+updateTime=1970年01月19日 10时26分25秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=64	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23068
+mediaId=23068
+hideId=-1
+id=-1
+title=VID-20190904-WA0028.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190904-WA0028.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190904-WA0028.mp4
+size=1,22MB
+duration=07:00:05
+updateTime=1970年01月19日 10时26分29秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=65	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23080
+mediaId=23080
+hideId=-1
+id=-1
+title=1567599959833.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567599959833.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567599959833.mp4
+size=555,48KB
+duration=07:00:29
+updateTime=1970年01月19日 10时26分39秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=66	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23081
+mediaId=23081
+hideId=-1
+id=-1
+title=1567600051285.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567600051285.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567600051285.mp4
+size=530,02KB
+duration=07:00:29
+updateTime=1970年01月19日 10时26分40秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=67	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23085
+mediaId=23085
+hideId=-1
+id=-1
+title=1567603094318.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567603094318.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567603094318.mp4
+size=1,34MB
+duration=07:00:22
+updateTime=1970年01月19日 10时26分43秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=68	VideoEntity[baseId=0]
+uri=content://media/external/video/media/23086
+mediaId=23086
+hideId=-1
+id=-1
+title=1567603791441.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567603791441.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567603791441.mp4
+size=673,45KB
+duration=07:00:16
+updateTime=1970年01月19日 10时26分43秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=69	VideoEntity[baseId=0]
+uri=content://media/external/video/media/24337
+mediaId=24337
+hideId=-1
+id=-1
+title=1567769404926.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567769404926.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567769404926.mp4
+size=396,02KB
+duration=07:00:29
+updateTime=1970年01月19日 10时29分29秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=70	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25061
+mediaId=25061
+hideId=-1
+id=-1
+title=VID-20190907-WA0132.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190907-WA0132.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190907-WA0132.mp4
+size=4,28MB
+duration=07:00:28
+updateTime=1970年01月19日 10时31分09秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=71	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25078
+mediaId=25078
+hideId=-1
+id=-1
+title=VID-20190908-WA0029.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0029.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0029.mp4
+size=1,08MB
+duration=07:00:19
+updateTime=1970年01月19日 10时31分51秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=72	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25091
+mediaId=25091
+hideId=-1
+id=-1
+title=VID-20190908-WA0050.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0050.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0050.mp4
+size=3,97MB
+duration=07:00:52
+updateTime=1970年01月19日 10时32分22秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=73	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25102
+mediaId=25102
+hideId=-1
+id=-1
+title=1567947406279.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567947406279.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567947406279.mp4
+size=1,53MB
+duration=07:00:30
+updateTime=1970年01月19日 10时32分27秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=74	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25103
+mediaId=25103
+hideId=-1
+id=-1
+title=VID-20190908-WA0064.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0064.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190908-WA0064.mp4
+size=1,36MB
+duration=07:00:29
+updateTime=1970年01月19日 10时32分28秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=75	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25125
+mediaId=25125
+hideId=-1
+id=-1
+title=1567996454138.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567996454138.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1567996454138.mp4
+size=5,14MB
+duration=07:00:23
+updateTime=1970年01月19日 10时33分16秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=76	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25142
+mediaId=25142
+hideId=-1
+id=-1
+title=VID-20190909-WA0058.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190909-WA0058.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190909-WA0058.mp4
+size=6,61MB
+duration=07:00:12
+updateTime=1970年01月19日 10时33分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=77	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25155
+mediaId=25155
+hideId=-1
+id=-1
+title=VID-20190909-WA0068.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190909-WA0068.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190909-WA0068.mp4
+size=575,56KB
+duration=07:00:29
+updateTime=1970年01月19日 10时33分51秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=78	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25188
+mediaId=25188
+hideId=-1
+id=-1
+title=1568032979484.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568032979484.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568032979484.mp4
+size=560,87KB
+duration=07:00:30
+updateTime=1970年01月19日 10时33分52秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=79	VideoEntity[baseId=0]
+uri=content://media/external/video/media/25208
+mediaId=25208
+hideId=-1
+id=-1
+title=1568079441898.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568079441898.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568079441898.mp4
+size=1,55MB
+duration=07:00:29
+updateTime=1970年01月19日 10时34分39秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=80	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27000
+mediaId=27000
+hideId=-1
+id=-1
+title=1568081082189.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081082189.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081082189.mp4
+size=593,27KB
+duration=07:00:30
+updateTime=1970年01月19日 10时34分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=81	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27001
+mediaId=27001
+hideId=-1
+id=-1
+title=1568081415263.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081415263.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081415263.mp4
+size=1,79MB
+duration=07:00:29
+updateTime=1970年01月19日 10时34分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=82	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27050
+mediaId=27050
+hideId=-1
+id=-1
+title=1568118513995.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568118513995.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568118513995.mp4
+size=2,81MB
+duration=07:00:26
+updateTime=1970年01月19日 10时35分18秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=83	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27051
+mediaId=27051
+hideId=-1
+id=-1
+title=1568120140788.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568120140788.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568120140788.mp4
+size=555,28KB
+duration=07:00:29
+updateTime=1970年01月19日 10时35分20秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=84	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27626
+mediaId=27626
+hideId=-1
+id=-1
+title=1568081481765.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081481765.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081481765.mp4
+size=0,00B
+updateTime=1970年01月19日 10时36分09秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=85	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27627
+mediaId=27627
+hideId=-1
+id=-1
+title=1568081479493.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081479493.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081479493.mp4
+size=0,00B
+updateTime=1970年01月19日 10时36分09秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=86	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27628
+mediaId=27628
+hideId=-1
+id=-1
+title=1568081477305.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081477305.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081477305.mp4
+size=0,00B
+updateTime=1970年01月19日 10时36分09秒
+
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=87	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27629
+mediaId=27629
+hideId=-1
+id=-1
+title=1568081490688.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081490688.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568081490688.mp4
+size=0,00B
+updateTime=1970年01月19日 10时36分09秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=88	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27850
+mediaId=27850
+hideId=-1
+id=-1
+title=VID-20190911-WA0006.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0006.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0006.mp4
+size=2,41MB
+duration=07:00:15
+updateTime=1970年01月19日 10时36分17秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=89	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27851
+mediaId=27851
+hideId=-1
+id=-1
+title=VID-20190911-WA0007.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0007.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0007.mp4
+size=1,29MB
+duration=07:00:04
+updateTime=1970年01月19日 10时36分17秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=90	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27852
+mediaId=27852
+hideId=-1
+id=-1
+title=VID-20190911-WA0008.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0008.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0008.mp4
+size=2,37MB
+duration=07:00:15
+updateTime=1970年01月19日 10时36分17秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=91	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27853
+mediaId=27853
+hideId=-1
+id=-1
+title=VID-20190911-WA0009.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0009.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190911-WA0009.mp4
+size=1,34MB
+duration=07:00:08
+updateTime=1970年01月19日 10时36分17秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=92	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27895
+mediaId=27895
+hideId=-1
+id=-1
+title=VID_20190912_100706.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190912_100706.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190912_100706.mp4
+size=58,86MB
+duration=07:00:28
+updateTime=1970年01月19日 10时37分37秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=93	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27906
+mediaId=27906
+hideId=-1
+id=-1
+title=1568268694105.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568268694105.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568268694105.mp4
+size=4,55MB
+duration=07:00:30
+updateTime=1970年01月19日 10时37分48秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=94	VideoEntity[baseId=0]
+uri=content://media/external/video/media/27960
+mediaId=27960
+hideId=-1
+id=-1
+title=1568290376312.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568290376312.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568290376312.mp4
+size=542,73KB
+duration=07:00:24
+updateTime=1970年01月19日 10时38分10秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=95	VideoEntity[baseId=0]
+uri=content://media/external/video/media/28920
+mediaId=28920
+hideId=-1
+id=-1
+title=VID-20190912-WA0035.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190912-WA0035.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190912-WA0035.mp4
+size=1,57MB
+duration=07:00:28
+updateTime=1970年01月19日 10时38分21秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=96	VideoEntity[baseId=0]
+uri=content://media/external/video/media/30480
+mediaId=30480
+hideId=-1
+id=-1
+title=1568448006691.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568448006691.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568448006691.mp4
+size=2,45MB
+duration=07:00:15
+updateTime=1970年01月19日 10时40分48秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=97	VideoEntity[baseId=0]
+uri=content://media/external/video/media/30910
+mediaId=30910
+hideId=-1
+id=-1
+title=1568520417606.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568520417606.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568520417606.mp4
+size=5,13MB
+duration=07:00:23
+updateTime=1970年01月19日 10时42分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=98	VideoEntity[baseId=0]
+uri=content://media/external/video/media/32020
+mediaId=32020
+hideId=-1
+id=-1
+title=VID-20190918-WA0009.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190918-WA0009.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190918-WA0009.mp4
+size=158,84KB
+duration=07:00:02
+updateTime=1970年01月19日 10时46分28秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=99	VideoEntity[baseId=0]
+uri=content://media/external/video/media/32029
+mediaId=32029
+hideId=-1
+id=-1
+title=1568800727154.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568800727154.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568800727154.mp4
+size=460,16KB
+duration=07:00:29
+updateTime=1970年01月19日 10时46分40秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=100	VideoEntity[baseId=0]
+uri=content://media/external/video/media/33621
+mediaId=33621
+hideId=-1
+id=-1
+title=VID_26700105_005200_238.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_26700105_005200_238.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_26700105_005200_238.mp4
+size=653,34KB
+duration=07:00:04
+updateTime=1970年01月19日 10时47分39秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=101	VideoEntity[baseId=0]
+uri=content://media/external/video/media/33622
+mediaId=33622
+hideId=-1
+id=-1
+title=VID_26711122_163916_934.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_26711122_163916_934.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_26711122_163916_934.mp4
+size=656,57KB
+duration=07:00:04
+updateTime=1970年01月19日 10时47分39秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=102	VideoEntity[baseId=0]
+uri=content://media/external/video/media/33623
+mediaId=33623
+hideId=-1
+id=-1
+title=VID_26740123_112926_630.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_26740123_112926_630.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_26740123_112926_630.mp4
+size=688,54KB
+duration=07:00:04
+updateTime=1970年01月19日 10时47分39秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=103	VideoEntity[baseId=0]
+uri=content://media/external/video/media/33624
+mediaId=33624
+hideId=-1
+id=-1
+title=VID_26781107_164712_255.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_26781107_164712_255.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_26781107_164712_255.mp4
+size=698,72KB
+duration=07:00:04
+updateTime=1970年01月19日 10时47分39秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=104	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34050
+mediaId=34050
+hideId=-1
+id=-1
+title=1568876203319.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568876203319.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568876203319.mp4
+size=658,00KB
+duration=07:00:02
+updateTime=1970年01月19日 10时47分56秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=105	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34057
+mediaId=34057
+hideId=-1
+id=-1
+title=VID_20190919_163546.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190919_163546.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190919_163546.mp4
+size=29,95MB
+duration=07:00:14
+updateTime=1970年01月19日 10时48分05秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=106	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34059
+mediaId=34059
+hideId=-1
+id=-1
+title=VID-20190919-WA0102.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190919-WA0102.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190919-WA0102.mp4
+size=2,51MB
+duration=07:00:29
+updateTime=1970年01月19日 10时48分07秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=107	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34480
+mediaId=34480
+hideId=-1
+id=-1
+title=1568958219085.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568958219085.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1568958219085.mp4
+size=4,46MB
+duration=07:00:30
+updateTime=1970年01月19日 10时49分18秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=108	VideoEntity[baseId=0]
+uri=content://media/external/video/media/34481
+mediaId=34481
+hideId=-1
+id=-1
+title=VID-20190920-WA0012.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190920-WA0012.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20190920-WA0012.mp4
+size=1,52MB
+duration=07:00:26
+updateTime=1970年01月19日 10时49分22秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=109	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36423
+mediaId=36423
+hideId=-1
+id=-1
+title=1569156471081.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569156471081.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569156471081.mp4
+size=630,99KB
+duration=07:00:29
+updateTime=1970年01月19日 10时52分36秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=110	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36424
+mediaId=36424
+hideId=-1
+id=-1
+title=1569156479015.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569156479015.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569156479015.mp4
+size=406,51KB
+duration=07:00:24
+updateTime=1970年01月19日 10时52分36秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=111	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36425
+mediaId=36425
+hideId=-1
+id=-1
+title=1569157396586.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569157396586.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569157396586.mp4
+size=1,40MB
+duration=07:00:29
+updateTime=1970年01月19日 10时52分37秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=112	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36483
+mediaId=36483
+hideId=-1
+id=-1
+title=1569191935369.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569191935369.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569191935369.mp4
+size=3,81MB
+duration=07:00:15
+updateTime=1970年01月19日 10时53分11秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=113	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36885
+mediaId=36885
+hideId=-1
+id=-1
+title=1569222134263.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569222134263.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569222134263.mp4
+size=648,92KB
+duration=07:00:28
+updateTime=1970年01月19日 10时53分42秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=114	VideoEntity[baseId=0]
+uri=content://media/external/video/media/36912
+mediaId=36912
+hideId=-1
+id=-1
+title=1569244238652.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569244238652.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569244238652.mp4
+size=4,99MB
+duration=07:00:28
+updateTime=1970年01月19日 10时54分04秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=115	VideoEntity[baseId=0]
+uri=content://media/external/video/media/37559
+mediaId=37559
+hideId=-1
+id=-1
+title=VID_21830519_093452_476.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_21830519_093452_476.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_21830519_093452_476.mp4
+size=1,27MB
+duration=07:00:04
+updateTime=1970年01月19日 10时55分10秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=116	VideoEntity[baseId=0]
+uri=content://media/external/video/media/37560
+mediaId=37560
+hideId=-1
+id=-1
+title=VID_21881226_072239_487.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_21881226_072239_487.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_21881226_072239_487.mp4
+size=525,83KB
+duration=07:00:04
+updateTime=1970年01月19日 10时55分10秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=117	VideoEntity[baseId=0]
+uri=content://media/external/video/media/37567
+mediaId=37567
+hideId=-1
+id=-1
+title=1569320378068.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569320378068.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569320378068.mp4
+size=4,99MB
+duration=07:00:28
+updateTime=1970年01月19日 10时55分20秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=118	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38066
+mediaId=38066
+hideId=-1
+id=-1
+title=1569396013530.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569396013530.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569396013530.mp4
+size=1,53MB
+duration=07:00:30
+updateTime=1970年01月19日 10时56分36秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=119	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38078
+mediaId=38078
+hideId=-1
+id=-1
+title=1569401926551.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569401926551.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569401926551.mp4
+size=829,79KB
+duration=07:00:29
+updateTime=1970年01月19日 10时56分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=120	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38089
+mediaId=38089
+hideId=-1
+id=-1
+title=VID_24101213_212638_287.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_24101213_212638_287.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_24101213_212638_287.mp4
+size=3,85MB
+duration=07:00:14
+updateTime=1970年01月19日 10时56分47秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=121	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38090
+mediaId=38090
+hideId=-1
+id=-1
+title=VID_24100127_024108_285.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_24100127_024108_285.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_24100127_024108_285.mp4
+size=3,85MB
+duration=07:00:14
+updateTime=1970年01月19日 10时56分48秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=122	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38696
+mediaId=38696
+hideId=-1
+id=-1
+title=1569476633798.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569476633798.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569476633798.mp4
+size=894,71KB
+duration=07:00:30
+updateTime=1970年01月19日 10时57分56秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=123	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38697
+mediaId=38697
+hideId=-1
+id=-1
+title=1569476675630.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569476675630.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569476675630.mp4
+size=5,15MB
+duration=07:00:29
+updateTime=1970年01月19日 10时57分56秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=124	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38698
+mediaId=38698
+hideId=-1
+id=-1
+title=1569479760606.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569479760606.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569479760606.mp4
+size=472,68KB
+duration=07:00:30
+updateTime=1970年01月19日 10时57分59秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=125	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38708
+mediaId=38708
+hideId=-1
+id=-1
+title=1569492156215.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569492156215.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569492156215.mp4
+size=328,11KB
+duration=07:00:29
+updateTime=1970年01月19日 10时58分12秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=126	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38725
+mediaId=38725
+hideId=-1
+id=-1
+title=1569539237320.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569539237320.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569539237320.mp4
+size=308,75KB
+duration=07:00:30
+updateTime=1970年01月19日 10时58分59秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=127	VideoEntity[baseId=0]
+uri=content://media/external/video/media/38800
+mediaId=38800
+hideId=-1
+id=-1
+title=1569577192181.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569577192181.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569577192181.mp4
+size=467,66KB
+duration=07:00:15
+updateTime=1970年01月19日 10时59分37秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=128	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40274
+mediaId=40274
+hideId=-1
+id=-1
+title=VID_20190928_153928.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_153928.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_153928.mp4
+size=37,03MB
+duration=07:00:17
+updateTime=1970年01月19日 11时00分59秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=129	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40276
+mediaId=40276
+hideId=-1
+id=-1
+title=VID_20190928_154437.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_154437.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_154437.mp4
+size=22,71MB
+duration=07:00:10
+updateTime=1970年01月19日 11时01分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=130	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40277
+mediaId=40277
+hideId=-1
+id=-1
+title=VID_20190928_154501.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_154501.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_154501.mp4
+size=10,82MB
+duration=07:00:05
+updateTime=1970年01月19日 11时01分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=131	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40315
+mediaId=40315
+hideId=-1
+id=-1
+title=VID_20190928_200220.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_200220.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_200220.mp4
+size=20,31MB
+duration=07:00:09
+updateTime=1970年01月19日 11时01分15秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=132	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40316
+mediaId=40316
+hideId=-1
+id=-1
+title=VID_20190928_202632.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_202632.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_202632.mp4
+size=66,51MB
+duration=07:00:32
+updateTime=1970年01月19日 11时01分17秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=133	VideoEntity[baseId=0]
+uri=content://media/external/video/media/40318
+mediaId=40318
+hideId=-1
+id=-1
+title=VID_20190928_203224.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190928_203224.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190928_203224.mp4
+size=64,78MB
+duration=07:00:31
+updateTime=1970年01月19日 11时01分17秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=134	VideoEntity[baseId=0]
+uri=content://media/external/video/media/41015
+mediaId=41015
+hideId=-1
+id=-1
+title=1569743428178.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569743428178.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569743428178.mp4
+size=4,42MB
+duration=07:00:30
+updateTime=1970年01月19日 11时02分23秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=135	VideoEntity[baseId=0]
+uri=content://media/external/video/media/42188
+mediaId=42188
+hideId=-1
+id=-1
+title=1569921759575.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569921759575.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569921759575.mp4
+size=2,93MB
+duration=07:00:29
+updateTime=1970年01月19日 11时05分21秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=136	VideoEntity[baseId=0]
+uri=content://media/external/video/media/42189
+mediaId=42189
+hideId=-1
+id=-1
+title=1569922925877.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569922925877.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1569922925877.mp4
+size=3,49MB
+duration=07:00:15
+updateTime=1970年01月19日 11时05分22秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=137	VideoEntity[baseId=0]
+uri=content://media/external/video/media/43051
+mediaId=43051
+hideId=-1
+id=-1
+title=VID_20191001_192639.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20191001_192639.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20191001_192639.mp4
+size=106,32MB
+duration=07:00:52
+updateTime=1970年01月19日 11时05分32秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=138	VideoEntity[baseId=0]
+uri=content://media/external/video/media/43113
+mediaId=43113
+hideId=-1
+id=-1
+title=1570064808886.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570064808886.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570064808886.mp4
+size=643,24KB
+duration=07:00:27
+updateTime=1970年01月19日 11时07分44秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=139	VideoEntity[baseId=0]
+uri=content://media/external/video/media/43125
+mediaId=43125
+hideId=-1
+id=-1
+title=1570066662340.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570066662340.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570066662340.mp4
+size=3,54MB
+duration=07:00:15
+updateTime=1970年01月19日 11时07分46秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=140	VideoEntity[baseId=0]
+uri=content://media/external/video/media/43133
+mediaId=43133
+hideId=-1
+id=-1
+title=VID-20191003-WA0038.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191003-WA0038.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191003-WA0038.mp4
+size=555,54KB
+duration=07:00:29
+updateTime=1970年01月19日 11时08分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=141	VideoEntity[baseId=0]
+uri=content://media/external/video/media/44740
+mediaId=44740
+hideId=-1
+id=-1
+title=1570152157607.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570152157607.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570152157607.mp4
+size=628,15KB
+duration=07:00:28
+updateTime=1970年01月19日 11时09分12秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=142	VideoEntity[baseId=0]
+uri=content://media/external/video/media/44741
+mediaId=44741
+hideId=-1
+id=-1
+title=1570152188213.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570152188213.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570152188213.mp4
+size=10,50MB
+duration=07:00:20
+updateTime=1970年01月19日 11时09分12秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=143	VideoEntity[baseId=0]
+uri=content://media/external/video/media/44824
+mediaId=44824
+hideId=-1
+id=-1
+title=1570196097507.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570196097507.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570196097507.mp4
+size=1,80MB
+duration=07:00:28
+updateTime=1970年01月19日 11时09分56秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=144	VideoEntity[baseId=0]
+uri=content://media/external/video/media/44827
+mediaId=44827
+hideId=-1
+id=-1
+title=1570229765414.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570229765414.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570229765414.mp4
+size=1,09MB
+duration=07:00:29
+updateTime=1970年01月19日 11时10分29秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=145	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45297
+mediaId=45297
+hideId=-1
+id=-1
+title=1570261100652.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570261100652.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570261100652.mp4
+size=1,27MB
+duration=07:00:26
+updateTime=1970年01月19日 11时11分01秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=146	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45332
+mediaId=45332
+hideId=-1
+id=-1
+title=1570285082180.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570285082180.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570285082180.mp4
+size=1,35MB
+duration=07:00:14
+updateTime=1970年01月19日 11时11分25秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=147	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45350
+mediaId=45350
+hideId=-1
+id=-1
+title=VID-20191006-WA0035.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191006-WA0035.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191006-WA0035.mp4
+size=6,73MB
+duration=07:00:33
+updateTime=1970年01月19日 11时12分28秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=148	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45352
+mediaId=45352
+hideId=-1
+id=-1
+title=1570353436761.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570353436761.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570353436761.mp4
+size=1,89MB
+duration=07:00:29
+updateTime=1970年01月19日 11时12分33秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=149	VideoEntity[baseId=0]
+uri=content://media/external/video/media/45354
+mediaId=45354
+hideId=-1
+id=-1
+title=1570353567185.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570353567185.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570353567185.mp4
+size=4,53MB
+duration=07:00:29
+updateTime=1970年01月19日 11时12分33秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=150	VideoEntity[baseId=0]
+uri=content://media/external/video/media/46306
+mediaId=46306
+hideId=-1
+id=-1
+title=VID-20191007-WA0009.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191007-WA0009.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191007-WA0009.mp4
+size=5,65MB
+duration=07:00:29
+updateTime=1970年01月19日 11时13分37秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=151	VideoEntity[baseId=0]
+uri=content://media/external/video/media/46333
+mediaId=46333
+hideId=-1
+id=-1
+title=1570429903789.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570429903789.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570429903789.mp4
+size=4,67MB
+duration=07:00:30
+updateTime=1970年01月19日 11时13分49秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=152	VideoEntity[baseId=0]
+uri=content://media/external/video/media/46334
+mediaId=46334
+hideId=-1
+id=-1
+title=VID-20191007-WA0055.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191007-WA0055.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191007-WA0055.mp4
+size=9,92MB
+duration=07:06:49
+updateTime=1970年01月19日 11时13分50秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=153	VideoEntity[baseId=0]
+uri=content://media/external/video/media/46440
+mediaId=46440
+hideId=-1
+id=-1
+title=VID_20191009_115827.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20191009_115827.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20191009_115827.mp4
+size=76,32MB
+duration=07:00:37
+updateTime=1970年01月19日 11时16分37秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=154	VideoEntity[baseId=0]
+uri=content://media/external/video/media/48445
+mediaId=48445
+hideId=-1
+id=-1
+title=1570610456793.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570610456793.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570610456793.mp4
+size=1,59MB
+duration=07:00:30
+updateTime=1970年01月19日 11时16分50秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=155	VideoEntity[baseId=0]
+uri=content://media/external/video/media/48487
+mediaId=48487
+hideId=-1
+id=-1
+title=1570629957081.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570629957081.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570629957081.mp4
+size=1010,96KB
+duration=07:00:24
+updateTime=1970年01月19日 11时17分09秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=156	VideoEntity[baseId=0]
+uri=content://media/external/video/media/48488
+mediaId=48488
+hideId=-1
+id=-1
+title=1570629967576.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570629967576.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570629967576.mp4
+size=1,11MB
+duration=07:00:30
+updateTime=1970年01月19日 11时17分09秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=157	VideoEntity[baseId=0]
+uri=content://media/external/video/media/48491
+mediaId=48491
+hideId=-1
+id=-1
+title=1570661109363.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570661109363.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570661109363.mp4
+size=1,44MB
+duration=07:00:30
+updateTime=1970年01月19日 11时17分41秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=158	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49341
+mediaId=49341
+hideId=-1
+id=-1
+title=VID-20191010-WA0037.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0037.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0037.mp4
+size=518,66KB
+duration=07:00:14
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=159	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49342
+mediaId=49342
+hideId=-1
+id=-1
+title=VID-20191010-WA0038.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0038.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0038.mp4
+size=549,25KB
+duration=07:00:14
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=160	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49343
+mediaId=49343
+hideId=-1
+id=-1
+title=VID-20191010-WA0039.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0039.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0039.mp4
+size=1,18MB
+duration=07:00:29
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=161	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49344
+mediaId=49344
+hideId=-1
+id=-1
+title=VID-20191010-WA0044.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0044.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0044.mp4
+size=3,91MB
+duration=07:00:30
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=162	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49346
+mediaId=49346
+hideId=-1
+id=-1
+title=VID-20191010-WA0046.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0046.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0046.mp4
+size=6,13MB
+duration=07:00:30
+updateTime=1970年01月19日 11时18分29秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=163	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49348
+mediaId=49348
+hideId=-1
+id=-1
+title=VID-20191010-WA0053.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0053.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191010-WA0053.mp4
+size=9,02MB
+duration=07:00:30
+updateTime=1970年01月19日 11时18分30秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=164	VideoEntity[baseId=0]
+uri=content://media/external/video/media/49905
+mediaId=49905
+hideId=-1
+id=-1
+title=VID_37980902_054447_053.mp4
+imgUrl=/storage/emulated/0/Movies/Instagram/VID_37980902_054447_053.mp4
+path=/storage/emulated/0/Movies/Instagram/VID_37980902_054447_053.mp4
+size=3,86MB
+duration=07:00:14
+updateTime=1970年01月19日 11时19分40秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=165	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50063
+mediaId=50063
+hideId=-1
+id=-1
+title=1570802318413.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570802318413.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570802318413.mp4
+size=825,94KB
+duration=07:00:29
+updateTime=1970年01月19日 11时20分02秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=166	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50787
+mediaId=50787
+hideId=-1
+id=-1
+title=1570890936133.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890936133.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890936133.mp4
+size=497,55KB
+duration=07:00:28
+updateTime=1970年01月19日 11时21分30秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=167	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50788
+mediaId=50788
+hideId=-1
+id=-1
+title=1570890940870.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890940870.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890940870.mp4
+size=787,61KB
+duration=07:00:28
+updateTime=1970年01月19日 11时21分30秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=168	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50789
+mediaId=50789
+hideId=-1
+id=-1
+title=1570890947928.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890947928.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1570890947928.mp4
+size=739,40KB
+duration=07:00:29
+updateTime=1970年01月19日 11时21分30秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=169	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50882
+mediaId=50882
+hideId=-1
+id=-1
+title=VID-20191014-WA0034.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191014-WA0034.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191014-WA0034.mp4
+size=2,48MB
+duration=07:00:09
+updateTime=1970年01月19日 11时24分18秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=170	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50886
+mediaId=50886
+hideId=-1
+id=-1
+title=VID-20191014-WA0036.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191014-WA0036.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191014-WA0036.mp4
+size=320,01KB
+duration=07:00:19
+updateTime=1970年01月19日 11时24分18秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=171	VideoEntity[baseId=0]
+uri=content://media/external/video/media/50912
+mediaId=50912
+hideId=-1
+id=-1
+title=VID_20191015_074854.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20191015_074854.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20191015_074854.mp4
+size=19,57MB
+duration=07:00:09
+updateTime=1970年01月19日 11时25分00秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=172	VideoEntity[baseId=0]
+uri=content://media/external/video/media/52678
+mediaId=52678
+hideId=-1
+id=-1
+title=VID-20191015-WA0015.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191015-WA0015.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191015-WA0015.mp4
+size=7,02MB
+duration=07:00:35
+updateTime=1970年01月19日 11时25分14秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=173	VideoEntity[baseId=0]
+uri=content://media/external/video/media/52737
+mediaId=52737
+hideId=-1
+id=-1
+title=VID-20191016-WA0022.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191016-WA0022.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191016-WA0022.mp4
+size=945,48KB
+duration=07:00:05
+updateTime=1970年01月19日 11时26分44秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=174	VideoEntity[baseId=0]
+uri=content://media/external/video/media/52738
+mediaId=52738
+hideId=-1
+id=-1
+title=VID-20191016-WA0023.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191016-WA0023.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191016-WA0023.mp4
+size=935,78KB
+duration=07:00:05
+updateTime=1970年01月19日 11时26分44秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=175	VideoEntity[baseId=0]
+uri=content://media/external/video/media/52896
+mediaId=52896
+hideId=-1
+id=-1
+title=VID-20191018-WA0017.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191018-WA0017.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191018-WA0017.mp4
+size=3,12MB
+duration=07:00:37
+updateTime=1970年01月19日 11时29分38秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=176	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56281
+mediaId=56281
+hideId=-1
+id=-1
+title=VID-20191020-WA0029.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191020-WA0029.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191020-WA0029.mp4
+size=5,63MB
+duration=07:00:14
+updateTime=1970年01月19日 11时32分46秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=177	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56283
+mediaId=56283
+hideId=-1
+id=-1
+title=VID-20191020-WA0034.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191020-WA0034.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191020-WA0034.mp4
+size=1,84MB
+duration=07:00:15
+updateTime=1970年01月19日 11时32分47秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=178	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56289
+mediaId=56289
+hideId=-1
+id=-1
+title=1571571869212.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571571869212.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571571869212.mp4
+size=664,54KB
+duration=07:00:21
+updateTime=1970年01月19日 11时32分51秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=179	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56293
+mediaId=56293
+hideId=-1
+id=-1
+title=1571573179238.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571573179238.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571573179238.mp4
+size=417,43KB
+duration=07:00:28
+updateTime=1970年01月19日 11时32分53秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=180	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56316
+mediaId=56316
+hideId=-1
+id=-1
+title=VID-20191021-WA0004.mp4
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191021-WA0004.mp4
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191021-WA0004.mp4
+size=1,23MB
+duration=07:00:05
+updateTime=1970年01月19日 11时33分54秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=181	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56359
+mediaId=56359
+hideId=-1
+id=-1
+title=1571742755485.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571742755485.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571742755485.mp4
+size=3,12MB
+duration=07:00:29
+updateTime=1970年01月19日 11时35分42秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=182	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56368
+mediaId=56368
+hideId=-1
+id=-1
+title=1571751985236.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571751985236.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571751985236.mp4
+size=4,54MB
+duration=07:00:17
+updateTime=1970年01月19日 11时35分51秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=183	VideoEntity[baseId=0]
+uri=content://media/external/video/media/56369
+mediaId=56369
+hideId=-1
+id=-1
+title=VID-20191022-WA0025.3gp
+imgUrl=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191022-WA0025.3gp
+path=/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20191022-WA0025.3gp
+size=5,67MB
+duration=07:00:28
+updateTime=1970年01月19日 11时35分52秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=184	VideoEntity[baseId=0]
+uri=content://media/external/video/media/58594
+mediaId=58594
+hideId=-1
+id=-1
+title=1571961194502.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571961194502.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571961194502.mp4
+size=1,45MB
+duration=07:00:15
+updateTime=1970年01月19日 11时39分21秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=185	VideoEntity[baseId=0]
+uri=content://media/external/video/media/58595
+mediaId=58595
+hideId=-1
+id=-1
+title=1571962125195.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571962125195.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1571962125195.mp4
+size=4,59MB
+duration=07:00:30
+updateTime=1970年01月19日 11时39分22秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=186	VideoEntity[baseId=0]
+uri=content://media/external/video/media/59616
+mediaId=59616
+hideId=-1
+id=-1
+title=1572003927637.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572003927637.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572003927637.mp4
+size=334,26KB
+duration=07:00:30
+updateTime=1970年01月19日 11时40分03秒
+
+2019-11-07 08:37:54	DEBUG	DBUtils	[ moveToNext ] size=187	VideoEntity[baseId=0]
+uri=content://media/external/video/media/59617
+mediaId=59617
+hideId=-1
+id=-1
+title=1572003932228.mp4
+imgUrl=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572003932228.mp4
+path=/storage/emulated/0/Pictures/Status Downloader for Whatsapp/1572003932228.mp4
+size=473,89KB
+duration=07:00:24
+updateTime=1970年01月19日 11时40分03秒
+
+
